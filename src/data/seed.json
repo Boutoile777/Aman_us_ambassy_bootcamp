@@ -1,0 +1,2954 @@
+{
+ "genere_le": "2026-11-18T04:03:07.605Z",
+ "sources": [
+  {
+   "id": "1f30b256-be73-559a-a831-b2e9481c06ce",
+   "titre": "MDPI 2025",
+   "url": "https://mdpi.com/2223-7747/14/12/1776",
+   "annee": 2025
+  },
+  {
+   "id": "ab422a1f-6dba-5195-a7ed-55aa50b685dc",
+   "titre": "étude togolaise 2020",
+   "url": "https://www.pubmed.gov/31993335/",
+   "annee": 2020
+  },
+  {
+   "id": "9965aecf-4d24-5ae5-a5cd-a7858c29c217",
+   "titre": "Ouro-Djeri 2022",
+   "url": "https://ajol.info/index.php/ijbcs/article/view/230636/217754",
+   "annee": 2022
+  },
+  {
+   "id": "d090b358-fb40-522e-acbe-5b5950144810",
+   "titre": "Agbankpé et al.",
+   "url": "https://core.ac.uk/download/478400358.pdf",
+   "annee": null
+  },
+  {
+   "id": "89df5bba-851a-5ebb-a5b5-6d172c0bbd43",
+   "titre": "étude sur l'écorce",
+   "url": "https://www.proquest.com/docview/527948487",
+   "annee": null
+  },
+  {
+   "id": "dad1366b-dbc7-56bb-a598-9196c2a8dff7",
+   "titre": "Lawin 2015",
+   "url": "https://www.m.elewa.org/JAPS/2015/26.3/2.Lawin.pdf",
+   "annee": 2015
+  },
+  {
+   "id": "e9560717-cc51-5436-aeef-301d2c041095",
+   "titre": "Indian Pediatrics 2008",
+   "url": "https://indianpediatrics.net/jan2008/jan-56-57.htm",
+   "annee": 2008
+  },
+  {
+   "id": "bedde690-7248-5b9b-a9a0-d9bcffd0cb74",
+   "titre": "série de 12 cas",
+   "url": "https://katalog.lib.cas.cz/KNAV/EdsRecord/edsair,edsair.doi.dedup.....568a3386be36dc0f21a1681603f06229",
+   "annee": null
+  },
+  {
+   "id": "abc34066-771e-5b5e-a00d-7c05e45bfd5a",
+   "titre": "Towns 2014",
+   "url": "https://www.scribd.com/document/488279140/1472-6882-14-113-S1",
+   "annee": 2014
+  },
+  {
+   "id": "2688e12f-ce05-57a3-a909-ebe5b613a26c",
+   "titre": "Drugs.com",
+   "url": "https://drugs.com/npp/lemongrass.html",
+   "annee": null
+  },
+  {
+   "id": "b514572d-a0e3-5d9c-a74e-20497c8bf29e",
+   "titre": "MSKCC",
+   "url": "https://sandbox18.mskcc.org/cancer-care/integrative-medicine/herbs/lemongrass",
+   "annee": null
+  },
+  {
+   "id": "c15d43d4-3ae2-5f2e-a243-9a1d61a6d147",
+   "titre": "Frontiers 2022",
+   "url": "https://www.frontiersin.org/journals/tropical-diseases/articles/10.3389/fitd.2022.868645/pdf",
+   "annee": 2022
+  },
+  {
+   "id": "cf17918e-0277-55e3-aafc-a398ab5c7c54",
+   "titre": "Effoe 2020",
+   "url": "https://ajol.info/index.php/ijbcs/article/view/202064/190522",
+   "annee": 2020
+  },
+  {
+   "id": "2693cc22-22dd-5d37-a7c1-7389dc26e995",
+   "titre": "Infonet",
+   "url": "https://infonet-biovision.org/crops-fruits-vegetables/bitter-leaf-new",
+   "annee": null
+  },
+  {
+   "id": "05ae60a4-abdc-53e7-a762-4ca83f732223",
+   "titre": "Abdoulaye",
+   "url": "https://dspace.uac.bj/items/34c142e0-f937-4a8c-8688-fb379d866094/full",
+   "annee": null
+  },
+  {
+   "id": "3a7019b4-52a8-52f0-a360-722523401b97",
+   "titre": "OMS 2019",
+   "url": "https://www.who.int/fr/publications/i/item/the-use-of-non-pharmaceutical-forms-of-artemisia",
+   "annee": 2019
+  },
+  {
+   "id": "8ae7d095-3578-538e-a15f-5e8d3f54d2a9",
+   "titre": "Zime-Diawara 2015",
+   "url": "https://orbi.uliege.be/handle/2268/195168",
+   "annee": 2015
+  },
+  {
+   "id": "95bb4430-e2de-581d-acd3-c33d04637768",
+   "titre": "Kpabi et al. 2020",
+   "url": "https://ajol.info/index.php/jab/article/view/233967/220983",
+   "annee": 2020
+  },
+  {
+   "id": "0953f7de-1985-5c70-ad48-3798849dd49c",
+   "titre": "Adomou 2018",
+   "url": "https://dspace.uac.bj/bitstreams/a0a3db30-45fc-43bd-a85f-87cd5d7d03dd/download",
+   "annee": 2018
+  },
+  {
+   "id": "c60d6bb3-0985-580c-a7f6-15c9fc2b1afd",
+   "titre": "Rufford 2023",
+   "url": "https://media.rufford.org/media/project_reports/34986-1_February_2023.pdf",
+   "annee": 2023
+  },
+  {
+   "id": "2b4272ce-9c13-5a83-af76-badbc530852e",
+   "titre": "Agbodeka 2016",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4821101",
+   "annee": 2016
+  },
+  {
+   "id": "3aae3775-18b9-5431-a4c4-9286824cfca0",
+   "titre": "Aboudou 2021",
+   "url": "https://core.ac.uk/download/481075841.pdf",
+   "annee": 2021
+  },
+  {
+   "id": "0ac2ee11-1918-526d-a2ed-8ab81f643454",
+   "titre": "Ellis et al. 2021",
+   "url": "https://eprints.whiterose.ac.uk/id/eprint/181700/",
+   "annee": 2021
+  },
+  {
+   "id": "8c63d832-c65d-5e67-abd8-5fec6fe79ae5",
+   "titre": "Guinnin 2023",
+   "url": "https://ajol.info/index.php/ijbcs/article/view/265441/250487",
+   "annee": 2023
+  },
+  {
+   "id": "9b06c612-1581-592d-a3ab-e4900cba1dc5",
+   "titre": "Yakubu et al. 2022",
+   "url": "https://smujo.id/jnpb/article/download/10226/5634/1227832",
+   "annee": 2022
+  },
+  {
+   "id": "7040a21b-097e-516d-a1d2-54ae14da0e13",
+   "titre": "revue 2025",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12401401",
+   "annee": 2025
+  },
+  {
+   "id": "74da311b-3d45-5185-a5eb-295d47d907c8",
+   "titre": "BMC 2024",
+   "url": "https://Bmccomplementalternmed.Biomedcentral.com/articles/10.1186/s12906-024-04441-1",
+   "annee": 2024
+  },
+  {
+   "id": "672ef13f-5a23-592f-a1ac-36e5f6f88a3e",
+   "titre": "Gbekley et al. 2015",
+   "url": "https://panafrican-med-journal.com/content/article/20/437/full/",
+   "annee": 2015
+  },
+  {
+   "id": "54256986-0598-5ac4-ae5f-46c8e4cf8534",
+   "titre": "EBSCO",
+   "url": "https://www.ebsco.com/research-starters/health-and-medicine/bitter-melons-therapeutic-uses",
+   "annee": null
+  },
+  {
+   "id": "c4c8060a-1427-5c58-afde-fe038be70fe6",
+   "titre": "Allabi 2016",
+   "url": "https://uac.bj/wp-content/uploads/2021/jbc/JBC25/5.pdf",
+   "annee": 2016
+  },
+  {
+   "id": "d59e477f-c9cb-58c3-a8e3-e25f371e0999",
+   "titre": "Olou 2018",
+   "url": "https://ajol.info/index.php/ijbcs/article/view/183837/173197",
+   "annee": 2018
+  },
+  {
+   "id": "6bb1e4dd-50ae-5946-a5df-a3f3691d50c1",
+   "titre": "Indian Pediatrics 2007",
+   "url": "https://indianpediatrics.net/july2007/522.pdf",
+   "annee": 2007
+  },
+  {
+   "id": "c45f7ca5-bee1-5d7d-a194-523225b10612",
+   "titre": "Allabi et al. 2016",
+   "url": "https://uac.bj/wp-content/uploads/2021/jbc/JBC25/5.pdf",
+   "annee": 2016
+  },
+  {
+   "id": "1632463d-55b6-5aa7-a48f-d60257ff6ea5",
+   "titre": "Olou et al. 2018",
+   "url": "https://ajol.info/index.php/ijbcs/article/view/183837/173197",
+   "annee": 2018
+  },
+  {
+   "id": "524d0cd8-1f36-59db-ae7a-fb72d43dd1dc",
+   "titre": "Bledu et al. 2024",
+   "url": "https://m.elewa.org/Journals/wp-content/uploads/2024/12/1.Bledu_-1.pdf",
+   "annee": 2024
+  },
+  {
+   "id": "458ee0fa-7a26-5497-a454-450eb187a0c6",
+   "titre": "Aboudou et Koudouvo 2021",
+   "url": "https://core.ac.uk/download/481075841.pdf",
+   "annee": 2021
+  }
+ ],
+ "plantes": [
+  {
+   "id": "facb2e81-d9b6-5c5a-ae6a-4561bb7e4289",
+   "slug": "kinkeliba",
+   "nom_francais": "Kinkéliba",
+   "nom_scientifique": "Combretum micranthum",
+   "prudence": "faible",
+   "science": "Peu toxique chez le rat (dose létale médiane > 5 000 mg/kg). Aucun essai chez l'humain.",
+   "precautions": [
+    "Pas de données pour la grossesse et l'enfant"
+   ],
+   "photo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Combretum_micranthum_MS4291.JPG?width=900",
+   "photo_auteur": "Marco Schmidt (Burkina Faso)",
+   "photo_licence": null,
+   "photo_page": "https://commons.wikimedia.org/wiki/File:Combretum_micranthum_MS4291.JPG",
+   "statut": "valide"
+  },
+  {
+   "id": "5386af6d-4ee1-5007-a88a-32b1c7704bc4",
+   "slug": "moringa",
+   "nom_francais": "Moringa",
+   "nom_scientifique": "Moringa oleifera",
+   "prudence": "faible",
+   "science": "Feuilles nutritives. L'écorce a eu un effet abortif chez le rat.",
+   "precautions": [
+    "Feuilles : faible",
+    "Écorce, racine, fleurs : à éviter pendant la grossesse"
+   ],
+   "photo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kalamunggay_%28Moringa_oleifera%29,_Philippines.jpg?width=900",
+   "photo_auteur": "Obsidian Soul",
+   "photo_licence": null,
+   "photo_page": "https://commons.wikimedia.org/wiki/File:Kalamunggay_%28Moringa_oleifera%29,_Philippines.jpg",
+   "statut": "valide"
+  },
+  {
+   "id": "ecfab101-356d-50ad-a09b-a1e7a2f63632",
+   "slug": "neem",
+   "nom_francais": "Neem",
+   "nom_scientifique": "Azadirachta indica",
+   "prudence": "elevee",
+   "science": "L'huile ingérée provoque chez l'enfant convulsions, acidose et encéphalopathie ; dans une série, 10 enfants sur 12 sont morts.",
+   "precautions": [
+    "Huile : jamais par la bouche, jamais chez l'enfant, même quelques gouttes"
+   ],
+   "photo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Neem_tree_leaves.JPG?width=900",
+   "photo_auteur": "Prabhupuducherry",
+   "photo_licence": null,
+   "photo_page": "https://commons.wikimedia.org/wiki/File:Neem_tree_leaves.JPG",
+   "statut": "valide"
+  },
+  {
+   "id": "39ef0f73-8be2-5039-a0c8-f621cd85ea90",
+   "slug": "citronnelle",
+   "nom_francais": "Citronnelle",
+   "nom_scientifique": "Cymbopogon citratus",
+   "prudence": "faible",
+   "science": "Citral et myrcène : malformations chez le rat. Fortes doses : effets possibles sur les reins.",
+   "precautions": [
+    "À éviter pendant la grossesse et l'allaitement"
+   ],
+   "photo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tanglad_%28lemongrass,_Cymbopogon_citratus%29_-_Philippines.jpg?width=900",
+   "photo_auteur": "Obsidian Soul",
+   "photo_licence": null,
+   "photo_page": "https://commons.wikimedia.org/wiki/File:Tanglad_%28lemongrass,_Cymbopogon_citratus%29_-_Philippines.jpg",
+   "statut": "valide"
+  },
+  {
+   "id": "ec4242be-789e-5c3e-a352-f2b388aff901",
+   "slug": "basilic-africain",
+   "nom_francais": "Basilic africain",
+   "nom_scientifique": "Ocimum gratissimum",
+   "prudence": "faible",
+   "science": "Aucun signe de toxicité subaiguë chez le rat.",
+   "precautions": [
+    "Usage alimentaire courant"
+   ],
+   "photo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ocimum_gratissimum_%2821913853081%29.jpg?width=900",
+   "photo_auteur": "Rison Thumboor",
+   "photo_licence": null,
+   "photo_page": "https://commons.wikimedia.org/wiki/File:Ocimum_gratissimum_%2821913853081%29.jpg",
+   "statut": "valide"
+  },
+  {
+   "id": "9cb0f552-aa01-5ad4-a610-5494d56e5a05",
+   "slug": "feuille-amere",
+   "nom_francais": "Feuille amère",
+   "nom_scientifique": "Vernonia amygdalina",
+   "prudence": "moderee",
+   "science": "Extraits jugés fœtotoxiques chez le rat aux doses testées.",
+   "precautions": [
+    "À éviter pendant la grossesse"
+   ],
+   "photo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vernonia_amygdalina_aka_Bitter_leaf.jpg?width=900",
+   "photo_auteur": "Utibe Noah Silas",
+   "photo_licence": "CC BY-SA 4.0",
+   "photo_page": "https://commons.wikimedia.org/wiki/File:Vernonia_amygdalina_aka_Bitter_leaf.jpg",
+   "statut": "valide"
+  },
+  {
+   "id": "1f8dfdfc-c4f5-5773-a21b-e87ce34760fc",
+   "slug": "the-de-gambie",
+   "nom_francais": "Thé de Gambie",
+   "nom_scientifique": "Lippia multiflora",
+   "prudence": "a_evaluer",
+   "science": "Peu de données de sécurité trouvées.",
+   "precautions": [],
+   "photo_url": null,
+   "photo_auteur": null,
+   "photo_licence": null,
+   "photo_page": null,
+   "statut": "valide"
+  },
+  {
+   "id": "6052d98d-516f-5d36-aff2-fa954dc8a8f9",
+   "slug": "armoise",
+   "nom_francais": "Armoise",
+   "nom_scientifique": "Artemisia annua",
+   "prudence": "elevee",
+   "science": "L'OMS ne recommande la plante sous aucune forme contre le paludisme ; les décoctions pourraient favoriser des parasites résistants.",
+   "precautions": [
+    "Ne remplace jamais un test et un traitement du paludisme"
+   ],
+   "photo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Artemisia_annua_%28Ohio,_USA%29.jpg?width=900",
+   "photo_auteur": "Matt Berger (iNaturalist)",
+   "photo_licence": null,
+   "photo_page": "https://commons.wikimedia.org/wiki/File:Artemisia_annua_%28Ohio,_USA%29.jpg",
+   "statut": "valide"
+  },
+  {
+   "id": "2f7cf488-ba7c-5b45-a4b1-890a6413b15d",
+   "slug": "papayer",
+   "nom_francais": "Papayer",
+   "nom_scientifique": "Carica papaya",
+   "prudence": "a_evaluer",
+   "science": "Peu de données de sécurité trouvées.",
+   "precautions": [],
+   "photo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Carica_papaya_MS4113.JPG?width=900",
+   "photo_auteur": "Marco Schmidt (Burkina Faso)",
+   "photo_licence": "CC BY-SA 2.5",
+   "photo_page": "https://commons.wikimedia.org/wiki/File:Carica_papaya_MS4113.JPG",
+   "statut": "valide"
+  },
+  {
+   "id": "84cd4427-b48e-52a2-a2af-a7c6ccfc4969",
+   "slug": "hysope-africaine",
+   "nom_francais": "Hysope africaine",
+   "nom_scientifique": "Newbouldia laevis",
+   "prudence": "a_evaluer",
+   "science": "Peu de données de sécurité trouvées.",
+   "precautions": [],
+   "photo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Feuille_fra%C3%AEche_d%E2%80%99hysope_africaine_au_B%C3%A9nin.jpg?width=900",
+   "photo_auteur": "Adoscam (photo prise au Bénin)",
+   "photo_licence": null,
+   "photo_page": "https://commons.wikimedia.org/wiki/File:Feuille_fra%C3%AEche_d%E2%80%99hysope_africaine_au_B%C3%A9nin.jpg",
+   "statut": "valide"
+  },
+  {
+   "id": "6b7f1a1a-7df2-51df-a35a-f5d4388b5de9",
+   "slug": "manguier",
+   "nom_francais": "Manguier",
+   "nom_scientifique": "Mangifera indica",
+   "prudence": "a_evaluer",
+   "science": "Peu de données de sécurité trouvées.",
+   "precautions": [],
+   "photo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ganyen_Mangoro_%28Mango_leaves%29.jpg?width=900",
+   "photo_auteur": null,
+   "photo_licence": null,
+   "photo_page": "https://commons.wikimedia.org/wiki/File:Ganyen_Mangoro_%28Mango_leaves%29.jpg",
+   "statut": "valide"
+  },
+  {
+   "id": "c39e4676-2580-5c77-ab69-186c710dbb1e",
+   "slug": "bissap",
+   "nom_francais": "Bissap",
+   "nom_scientifique": "Hibiscus sabdariffa",
+   "prudence": "faible",
+   "science": "Une méta-analyse de 17 essais trouve une baisse de la tension systolique d'environ 7 mmHg par rapport au placebo.",
+   "precautions": [
+    "Vous suivez un traitement contre la tension ? Demandez conseil"
+   ],
+   "photo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Roselle,_Hibiscus_sabdariffa,_2014_01.JPG?width=900",
+   "photo_auteur": "Invertzoo",
+   "photo_licence": null,
+   "photo_page": "https://commons.wikimedia.org/wiki/File:Roselle,_Hibiscus_sabdariffa,_2014_01.JPG",
+   "statut": "valide"
+  },
+  {
+   "id": "d70cb5b4-1bd9-5b08-ad0b-3e008c87d361",
+   "slug": "goyavier",
+   "nom_francais": "Goyavier",
+   "nom_scientifique": "Psidium guajava",
+   "prudence": "a_evaluer",
+   "science": "Peu de données de sécurité trouvées.",
+   "precautions": [],
+   "photo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Psidium_guajava_%28Chinese_guava%29_leaves_in_RDA,_Bogra.jpg?width=900",
+   "photo_auteur": "Afifa Afrin",
+   "photo_licence": null,
+   "photo_page": "https://commons.wikimedia.org/wiki/File:Psidium_guajava_%28Chinese_guava%29_leaves_in_RDA,_Bogra.jpg",
+   "statut": "valide"
+  },
+  {
+   "id": "fc43bd80-85d5-5eea-a55e-0774cc6975af",
+   "slug": "phyllanthus",
+   "nom_francais": "Phyllanthus",
+   "nom_scientifique": "Phyllanthus amarus",
+   "prudence": "a_evaluer",
+   "science": "Pas d'atteinte notable du foie ni des reins chez le rat dans une étude de 2022.",
+   "precautions": [
+    "Données humaines limitées"
+   ],
+   "photo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Carry_Me_Seed_%28Phyllanthus_amarus%29.jpg?width=900",
+   "photo_auteur": "Mokkie (espèce à confirmer)",
+   "photo_licence": null,
+   "photo_page": "https://commons.wikimedia.org/wiki/File:Carry_Me_Seed_%28Phyllanthus_amarus%29.jpg",
+   "statut": "valide"
+  },
+  {
+   "id": "24d3a311-e19f-5cdf-acc2-d8bb77c44141",
+   "slug": "pervenche-de-madagascar",
+   "nom_francais": "Pervenche de Madagascar",
+   "nom_scientifique": "Catharanthus roseus",
+   "prudence": "elevee",
+   "science": "Contient les alcaloïdes des médicaments anticancer vinblastine et vincristine ; intoxications rapportées (foie, ulcères, engourdissements).",
+   "precautions": [
+    "Ne pas consommer"
+   ],
+   "photo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Catharanthus_roseus_%28Flowers%29.jpg?width=900",
+   "photo_auteur": "Jane Wong S.K.",
+   "photo_licence": null,
+   "photo_page": "https://commons.wikimedia.org/wiki/File:Catharanthus_roseus_%28Flowers%29.jpg",
+   "statut": "valide"
+  },
+  {
+   "id": "006ce068-04f6-5479-ad8c-92df5a6af9cd",
+   "slug": "margose",
+   "nom_francais": "Margose",
+   "nom_scientifique": "Momordica charantia",
+   "prudence": "moderee",
+   "science": "Comas hypoglycémiques rapportés chez deux enfants.",
+   "precautions": [
+    "Déconseillée chez l'enfant, pendant la grossesse et l'allaitement ; risque d'hypoglycémie avec un traitement du diabète"
+   ],
+   "photo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Momordica_charantia_%28Bitter_melon%29_leaves_and_a_flower.jpg?width=900",
+   "photo_auteur": "石川 Shihchuan",
+   "photo_licence": "CC BY-SA 2.0",
+   "photo_page": "https://commons.wikimedia.org/wiki/File:Momordica_charantia_%28Bitter_melon%29_leaves_and_a_flower.jpg",
+   "statut": "valide"
+  },
+  {
+   "id": "1c3e368b-dd74-5a61-a326-1d409233554e",
+   "slug": "pecher-africain",
+   "nom_francais": "Pêcher africain",
+   "nom_scientifique": "Sarcocephalus latifolius",
+   "prudence": "a_evaluer",
+   "science": "Peu de données de sécurité trouvées.",
+   "precautions": [],
+   "photo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sarcocephalus_latifolius_MS_0970.jpg?width=900",
+   "photo_auteur": "Marco Schmidt (Burkina Faso)",
+   "photo_licence": "CC BY-SA 3.0",
+   "photo_page": "https://commons.wikimedia.org/wiki/File:Sarcocephalus_latifolius_MS_0970.jpg",
+   "statut": "valide"
+  },
+  {
+   "id": "7fd8f8f4-455e-540f-a35b-9b8bb752fb27",
+   "slug": "crateva",
+   "nom_francais": "Crateva",
+   "nom_scientifique": "Crateva adansonii",
+   "prudence": "a_evaluer",
+   "science": "Peu de données de sécurité trouvées.",
+   "precautions": [],
+   "photo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Crateva_adansonii_MS_10842.jpg?width=900",
+   "photo_auteur": null,
+   "photo_licence": null,
+   "photo_page": "https://commons.wikimedia.org/wiki/File:Crateva_adansonii_MS_10842.jpg",
+   "statut": "valide"
+  },
+  {
+   "id": "0613dfb8-1d42-5c92-a6ec-3c0daf20d367",
+   "slug": "poivre-de-guinee",
+   "nom_francais": "Poivre de Guinée",
+   "nom_scientifique": "Xylopia aethiopica",
+   "prudence": "a_evaluer",
+   "science": "Peu de données de sécurité trouvées.",
+   "precautions": [],
+   "photo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Xylopiaaethiopica.jpg?width=900",
+   "photo_auteur": "stephenbuchan (Flickr)",
+   "photo_licence": null,
+   "photo_page": "https://commons.wikimedia.org/wiki/File:Xylopiaaethiopica.jpg",
+   "statut": "valide"
+  },
+  {
+   "id": "11813114-3404-5d8a-aa8a-e49a78bdbedd",
+   "slug": "cafe-negre",
+   "nom_francais": "Café nègre",
+   "nom_scientifique": "Senna occidentalis",
+   "prudence": "elevee",
+   "science": "Les graines sont liées à des intoxications mortelles d'enfants (atteinte du foie, des muscles et du cerveau).",
+   "precautions": [
+    "Graines dangereuses, surtout pour les enfants"
+   ],
+   "photo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Senna_occidentalis.jpg?width=900",
+   "photo_auteur": "Jeevan Jose",
+   "photo_licence": null,
+   "photo_page": "https://commons.wikimedia.org/wiki/File:Senna_occidentalis.jpg",
+   "statut": "valide"
+  }
+ ],
+ "plante_sources": [
+  {
+   "plante_id": "facb2e81-d9b6-5c5a-ae6a-4561bb7e4289",
+   "source_id": "1f30b256-be73-559a-a831-b2e9481c06ce",
+   "role": "science"
+  },
+  {
+   "plante_id": "facb2e81-d9b6-5c5a-ae6a-4561bb7e4289",
+   "source_id": "ab422a1f-6dba-5195-a7ed-55aa50b685dc",
+   "role": "science"
+  },
+  {
+   "plante_id": "facb2e81-d9b6-5c5a-ae6a-4561bb7e4289",
+   "source_id": "9965aecf-4d24-5ae5-a5cd-a7858c29c217",
+   "role": "noms_usages"
+  },
+  {
+   "plante_id": "5386af6d-4ee1-5007-a88a-32b1c7704bc4",
+   "source_id": "d090b358-fb40-522e-acbe-5b5950144810",
+   "role": "science"
+  },
+  {
+   "plante_id": "5386af6d-4ee1-5007-a88a-32b1c7704bc4",
+   "source_id": "89df5bba-851a-5ebb-a5b5-6d172c0bbd43",
+   "role": "science"
+  },
+  {
+   "plante_id": "5386af6d-4ee1-5007-a88a-32b1c7704bc4",
+   "source_id": "d090b358-fb40-522e-acbe-5b5950144810",
+   "role": "noms_usages"
+  },
+  {
+   "plante_id": "5386af6d-4ee1-5007-a88a-32b1c7704bc4",
+   "source_id": "dad1366b-dbc7-56bb-a598-9196c2a8dff7",
+   "role": "noms_usages"
+  },
+  {
+   "plante_id": "5386af6d-4ee1-5007-a88a-32b1c7704bc4",
+   "source_id": "9965aecf-4d24-5ae5-a5cd-a7858c29c217",
+   "role": "noms_usages"
+  },
+  {
+   "plante_id": "ecfab101-356d-50ad-a09b-a1e7a2f63632",
+   "source_id": "e9560717-cc51-5436-aeef-301d2c041095",
+   "role": "science"
+  },
+  {
+   "plante_id": "ecfab101-356d-50ad-a09b-a1e7a2f63632",
+   "source_id": "bedde690-7248-5b9b-a9a0-d9bcffd0cb74",
+   "role": "science"
+  },
+  {
+   "plante_id": "ecfab101-356d-50ad-a09b-a1e7a2f63632",
+   "source_id": "dad1366b-dbc7-56bb-a598-9196c2a8dff7",
+   "role": "noms_usages"
+  },
+  {
+   "plante_id": "ecfab101-356d-50ad-a09b-a1e7a2f63632",
+   "source_id": "abc34066-771e-5b5e-a00d-7c05e45bfd5a",
+   "role": "noms_usages"
+  },
+  {
+   "plante_id": "ecfab101-356d-50ad-a09b-a1e7a2f63632",
+   "source_id": "9965aecf-4d24-5ae5-a5cd-a7858c29c217",
+   "role": "noms_usages"
+  },
+  {
+   "plante_id": "39ef0f73-8be2-5039-a0c8-f621cd85ea90",
+   "source_id": "2688e12f-ce05-57a3-a909-ebe5b613a26c",
+   "role": "science"
+  },
+  {
+   "plante_id": "39ef0f73-8be2-5039-a0c8-f621cd85ea90",
+   "source_id": "b514572d-a0e3-5d9c-a74e-20497c8bf29e",
+   "role": "science"
+  },
+  {
+   "plante_id": "39ef0f73-8be2-5039-a0c8-f621cd85ea90",
+   "source_id": "dad1366b-dbc7-56bb-a598-9196c2a8dff7",
+   "role": "noms_usages"
+  },
+  {
+   "plante_id": "39ef0f73-8be2-5039-a0c8-f621cd85ea90",
+   "source_id": "9965aecf-4d24-5ae5-a5cd-a7858c29c217",
+   "role": "noms_usages"
+  },
+  {
+   "plante_id": "ec4242be-789e-5c3e-a352-f2b388aff901",
+   "source_id": "d090b358-fb40-522e-acbe-5b5950144810",
+   "role": "science"
+  },
+  {
+   "plante_id": "ec4242be-789e-5c3e-a352-f2b388aff901",
+   "source_id": "c15d43d4-3ae2-5f2e-a243-9a1d61a6d147",
+   "role": "science"
+  },
+  {
+   "plante_id": "ec4242be-789e-5c3e-a352-f2b388aff901",
+   "source_id": "d090b358-fb40-522e-acbe-5b5950144810",
+   "role": "noms_usages"
+  },
+  {
+   "plante_id": "ec4242be-789e-5c3e-a352-f2b388aff901",
+   "source_id": "dad1366b-dbc7-56bb-a598-9196c2a8dff7",
+   "role": "noms_usages"
+  },
+  {
+   "plante_id": "ec4242be-789e-5c3e-a352-f2b388aff901",
+   "source_id": "9965aecf-4d24-5ae5-a5cd-a7858c29c217",
+   "role": "noms_usages"
+  },
+  {
+   "plante_id": "ec4242be-789e-5c3e-a352-f2b388aff901",
+   "source_id": "cf17918e-0277-55e3-aafc-a398ab5c7c54",
+   "role": "noms_usages"
+  },
+  {
+   "plante_id": "9cb0f552-aa01-5ad4-a610-5494d56e5a05",
+   "source_id": "d090b358-fb40-522e-acbe-5b5950144810",
+   "role": "science"
+  },
+  {
+   "plante_id": "9cb0f552-aa01-5ad4-a610-5494d56e5a05",
+   "source_id": "c15d43d4-3ae2-5f2e-a243-9a1d61a6d147",
+   "role": "science"
+  },
+  {
+   "plante_id": "9cb0f552-aa01-5ad4-a610-5494d56e5a05",
+   "source_id": "d090b358-fb40-522e-acbe-5b5950144810",
+   "role": "noms_usages"
+  },
+  {
+   "plante_id": "9cb0f552-aa01-5ad4-a610-5494d56e5a05",
+   "source_id": "dad1366b-dbc7-56bb-a598-9196c2a8dff7",
+   "role": "noms_usages"
+  },
+  {
+   "plante_id": "9cb0f552-aa01-5ad4-a610-5494d56e5a05",
+   "source_id": "2693cc22-22dd-5d37-a7c1-7389dc26e995",
+   "role": "noms_usages"
+  },
+  {
+   "plante_id": "9cb0f552-aa01-5ad4-a610-5494d56e5a05",
+   "source_id": "cf17918e-0277-55e3-aafc-a398ab5c7c54",
+   "role": "noms_usages"
+  },
+  {
+   "plante_id": "1f8dfdfc-c4f5-5773-a21b-e87ce34760fc",
+   "source_id": "d090b358-fb40-522e-acbe-5b5950144810",
+   "role": "science"
+  },
+  {
+   "plante_id": "1f8dfdfc-c4f5-5773-a21b-e87ce34760fc",
+   "source_id": "d090b358-fb40-522e-acbe-5b5950144810",
+   "role": "noms_usages"
+  },
+  {
+   "plante_id": "1f8dfdfc-c4f5-5773-a21b-e87ce34760fc",
+   "source_id": "05ae60a4-abdc-53e7-a762-4ca83f732223",
+   "role": "noms_usages"
+  },
+  {
+   "plante_id": "6052d98d-516f-5d36-aff2-fa954dc8a8f9",
+   "source_id": "3a7019b4-52a8-52f0-a360-722523401b97",
+   "role": "science"
+  },
+  {
+   "plante_id": "6052d98d-516f-5d36-aff2-fa954dc8a8f9",
+   "source_id": "8ae7d095-3578-538e-a15f-5e8d3f54d2a9",
+   "role": "noms_usages"
+  },
+  {
+   "plante_id": "2f7cf488-ba7c-5b45-a4b1-890a6413b15d",
+   "source_id": "95bb4430-e2de-581d-acd3-c33d04637768",
+   "role": "science"
+  },
+  {
+   "plante_id": "2f7cf488-ba7c-5b45-a4b1-890a6413b15d",
+   "source_id": "dad1366b-dbc7-56bb-a598-9196c2a8dff7",
+   "role": "noms_usages"
+  },
+  {
+   "plante_id": "2f7cf488-ba7c-5b45-a4b1-890a6413b15d",
+   "source_id": "abc34066-771e-5b5e-a00d-7c05e45bfd5a",
+   "role": "noms_usages"
+  },
+  {
+   "plante_id": "2f7cf488-ba7c-5b45-a4b1-890a6413b15d",
+   "source_id": "9965aecf-4d24-5ae5-a5cd-a7858c29c217",
+   "role": "noms_usages"
+  },
+  {
+   "plante_id": "2f7cf488-ba7c-5b45-a4b1-890a6413b15d",
+   "source_id": "95bb4430-e2de-581d-acd3-c33d04637768",
+   "role": "noms_usages"
+  },
+  {
+   "plante_id": "84cd4427-b48e-52a2-a2af-a7c6ccfc4969",
+   "source_id": "95bb4430-e2de-581d-acd3-c33d04637768",
+   "role": "science"
+  },
+  {
+   "plante_id": "84cd4427-b48e-52a2-a2af-a7c6ccfc4969",
+   "source_id": "0953f7de-1985-5c70-ad48-3798849dd49c",
+   "role": "noms_usages"
+  },
+  {
+   "plante_id": "84cd4427-b48e-52a2-a2af-a7c6ccfc4969",
+   "source_id": "9965aecf-4d24-5ae5-a5cd-a7858c29c217",
+   "role": "noms_usages"
+  },
+  {
+   "plante_id": "84cd4427-b48e-52a2-a2af-a7c6ccfc4969",
+   "source_id": "c60d6bb3-0985-580c-a7f6-15c9fc2b1afd",
+   "role": "noms_usages"
+  },
+  {
+   "plante_id": "84cd4427-b48e-52a2-a2af-a7c6ccfc4969",
+   "source_id": "95bb4430-e2de-581d-acd3-c33d04637768",
+   "role": "noms_usages"
+  },
+  {
+   "plante_id": "84cd4427-b48e-52a2-a2af-a7c6ccfc4969",
+   "source_id": "2b4272ce-9c13-5a83-af76-badbc530852e",
+   "role": "noms_usages"
+  },
+  {
+   "plante_id": "6b7f1a1a-7df2-51df-a35a-f5d4388b5de9",
+   "source_id": "95bb4430-e2de-581d-acd3-c33d04637768",
+   "role": "science"
+  },
+  {
+   "plante_id": "6b7f1a1a-7df2-51df-a35a-f5d4388b5de9",
+   "source_id": "dad1366b-dbc7-56bb-a598-9196c2a8dff7",
+   "role": "noms_usages"
+  },
+  {
+   "plante_id": "6b7f1a1a-7df2-51df-a35a-f5d4388b5de9",
+   "source_id": "9965aecf-4d24-5ae5-a5cd-a7858c29c217",
+   "role": "noms_usages"
+  },
+  {
+   "plante_id": "6b7f1a1a-7df2-51df-a35a-f5d4388b5de9",
+   "source_id": "95bb4430-e2de-581d-acd3-c33d04637768",
+   "role": "noms_usages"
+  },
+  {
+   "plante_id": "6b7f1a1a-7df2-51df-a35a-f5d4388b5de9",
+   "source_id": "3aae3775-18b9-5431-a4c4-9286824cfca0",
+   "role": "noms_usages"
+  },
+  {
+   "plante_id": "c39e4676-2580-5c77-ab69-186c710dbb1e",
+   "source_id": "0ac2ee11-1918-526d-a2ed-8ab81f643454",
+   "role": "science"
+  },
+  {
+   "plante_id": "c39e4676-2580-5c77-ab69-186c710dbb1e",
+   "source_id": "8c63d832-c65d-5e67-abd8-5fec6fe79ae5",
+   "role": "noms_usages"
+  },
+  {
+   "plante_id": "d70cb5b4-1bd9-5b08-ad0b-3e008c87d361",
+   "source_id": "d090b358-fb40-522e-acbe-5b5950144810",
+   "role": "science"
+  },
+  {
+   "plante_id": "d70cb5b4-1bd9-5b08-ad0b-3e008c87d361",
+   "source_id": "d090b358-fb40-522e-acbe-5b5950144810",
+   "role": "noms_usages"
+  },
+  {
+   "plante_id": "d70cb5b4-1bd9-5b08-ad0b-3e008c87d361",
+   "source_id": "dad1366b-dbc7-56bb-a598-9196c2a8dff7",
+   "role": "noms_usages"
+  },
+  {
+   "plante_id": "d70cb5b4-1bd9-5b08-ad0b-3e008c87d361",
+   "source_id": "9965aecf-4d24-5ae5-a5cd-a7858c29c217",
+   "role": "noms_usages"
+  },
+  {
+   "plante_id": "fc43bd80-85d5-5eea-a55e-0774cc6975af",
+   "source_id": "9b06c612-1581-592d-a3ab-e4900cba1dc5",
+   "role": "science"
+  },
+  {
+   "plante_id": "fc43bd80-85d5-5eea-a55e-0774cc6975af",
+   "source_id": "7040a21b-097e-516d-a1d2-54ae14da0e13",
+   "role": "science"
+  },
+  {
+   "plante_id": "fc43bd80-85d5-5eea-a55e-0774cc6975af",
+   "source_id": "dad1366b-dbc7-56bb-a598-9196c2a8dff7",
+   "role": "noms_usages"
+  },
+  {
+   "plante_id": "fc43bd80-85d5-5eea-a55e-0774cc6975af",
+   "source_id": "9965aecf-4d24-5ae5-a5cd-a7858c29c217",
+   "role": "noms_usages"
+  },
+  {
+   "plante_id": "24d3a311-e19f-5cdf-acc2-d8bb77c44141",
+   "source_id": "74da311b-3d45-5185-a5eb-295d47d907c8",
+   "role": "science"
+  },
+  {
+   "plante_id": "24d3a311-e19f-5cdf-acc2-d8bb77c44141",
+   "source_id": "672ef13f-5a23-592f-a1ac-36e5f6f88a3e",
+   "role": "science"
+  },
+  {
+   "plante_id": "24d3a311-e19f-5cdf-acc2-d8bb77c44141",
+   "source_id": "dad1366b-dbc7-56bb-a598-9196c2a8dff7",
+   "role": "noms_usages"
+  },
+  {
+   "plante_id": "24d3a311-e19f-5cdf-acc2-d8bb77c44141",
+   "source_id": "672ef13f-5a23-592f-a1ac-36e5f6f88a3e",
+   "role": "noms_usages"
+  },
+  {
+   "plante_id": "006ce068-04f6-5479-ad8c-92df5a6af9cd",
+   "source_id": "d090b358-fb40-522e-acbe-5b5950144810",
+   "role": "science"
+  },
+  {
+   "plante_id": "006ce068-04f6-5479-ad8c-92df5a6af9cd",
+   "source_id": "54256986-0598-5ac4-ae5f-46c8e4cf8534",
+   "role": "science"
+  },
+  {
+   "plante_id": "006ce068-04f6-5479-ad8c-92df5a6af9cd",
+   "source_id": "d090b358-fb40-522e-acbe-5b5950144810",
+   "role": "noms_usages"
+  },
+  {
+   "plante_id": "006ce068-04f6-5479-ad8c-92df5a6af9cd",
+   "source_id": "dad1366b-dbc7-56bb-a598-9196c2a8dff7",
+   "role": "noms_usages"
+  },
+  {
+   "plante_id": "006ce068-04f6-5479-ad8c-92df5a6af9cd",
+   "source_id": "9965aecf-4d24-5ae5-a5cd-a7858c29c217",
+   "role": "noms_usages"
+  },
+  {
+   "plante_id": "1c3e368b-dd74-5a61-a326-1d409233554e",
+   "source_id": "95bb4430-e2de-581d-acd3-c33d04637768",
+   "role": "science"
+  },
+  {
+   "plante_id": "1c3e368b-dd74-5a61-a326-1d409233554e",
+   "source_id": "dad1366b-dbc7-56bb-a598-9196c2a8dff7",
+   "role": "noms_usages"
+  },
+  {
+   "plante_id": "1c3e368b-dd74-5a61-a326-1d409233554e",
+   "source_id": "c4c8060a-1427-5c58-afde-fe038be70fe6",
+   "role": "noms_usages"
+  },
+  {
+   "plante_id": "1c3e368b-dd74-5a61-a326-1d409233554e",
+   "source_id": "9965aecf-4d24-5ae5-a5cd-a7858c29c217",
+   "role": "noms_usages"
+  },
+  {
+   "plante_id": "1c3e368b-dd74-5a61-a326-1d409233554e",
+   "source_id": "95bb4430-e2de-581d-acd3-c33d04637768",
+   "role": "noms_usages"
+  },
+  {
+   "plante_id": "7fd8f8f4-455e-540f-a35b-9b8bb752fb27",
+   "source_id": "d090b358-fb40-522e-acbe-5b5950144810",
+   "role": "science"
+  },
+  {
+   "plante_id": "7fd8f8f4-455e-540f-a35b-9b8bb752fb27",
+   "source_id": "d090b358-fb40-522e-acbe-5b5950144810",
+   "role": "noms_usages"
+  },
+  {
+   "plante_id": "7fd8f8f4-455e-540f-a35b-9b8bb752fb27",
+   "source_id": "dad1366b-dbc7-56bb-a598-9196c2a8dff7",
+   "role": "noms_usages"
+  },
+  {
+   "plante_id": "7fd8f8f4-455e-540f-a35b-9b8bb752fb27",
+   "source_id": "d59e477f-c9cb-58c3-a8e3-e25f371e0999",
+   "role": "noms_usages"
+  },
+  {
+   "plante_id": "0613dfb8-1d42-5c92-a6ec-3c0daf20d367",
+   "source_id": "672ef13f-5a23-592f-a1ac-36e5f6f88a3e",
+   "role": "science"
+  },
+  {
+   "plante_id": "0613dfb8-1d42-5c92-a6ec-3c0daf20d367",
+   "source_id": "dad1366b-dbc7-56bb-a598-9196c2a8dff7",
+   "role": "noms_usages"
+  },
+  {
+   "plante_id": "0613dfb8-1d42-5c92-a6ec-3c0daf20d367",
+   "source_id": "9965aecf-4d24-5ae5-a5cd-a7858c29c217",
+   "role": "noms_usages"
+  },
+  {
+   "plante_id": "0613dfb8-1d42-5c92-a6ec-3c0daf20d367",
+   "source_id": "672ef13f-5a23-592f-a1ac-36e5f6f88a3e",
+   "role": "noms_usages"
+  },
+  {
+   "plante_id": "11813114-3404-5d8a-aa8a-e49a78bdbedd",
+   "source_id": "6bb1e4dd-50ae-5946-a5df-a3f3691d50c1",
+   "role": "science"
+  },
+  {
+   "plante_id": "11813114-3404-5d8a-aa8a-e49a78bdbedd",
+   "source_id": "9965aecf-4d24-5ae5-a5cd-a7858c29c217",
+   "role": "noms_usages"
+  }
+ ],
+ "noms_locaux": [
+  {
+   "id": "f812a7d3-f8e3-5c31-a44b-f0f1622edf8c",
+   "plante_id": "facb2e81-d9b6-5c5a-ae6a-4561bb7e4289",
+   "nom": "Kinkéliba",
+   "nom_normalise": "kinkeliba",
+   "pays": "BJ",
+   "langue": "nom courant",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "17902c89-837a-57d5-a8f8-444662cbea25",
+   "plante_id": "facb2e81-d9b6-5c5a-ae6a-4561bb7e4289",
+   "nom": "Kinkéliba",
+   "nom_normalise": "kinkeliba",
+   "pays": "TG",
+   "langue": "nom courant",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "a5f90e7f-f028-5f92-a9c5-89d39e69f554",
+   "plante_id": "5386af6d-4ee1-5007-a88a-32b1c7704bc4",
+   "nom": "Kpatiman",
+   "nom_normalise": "kpatiman",
+   "pays": "BJ",
+   "langue": "fon",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "383e046d-74cc-588e-ae25-cdff5c4761a7",
+   "plante_id": "5386af6d-4ee1-5007-a88a-32b1c7704bc4",
+   "nom": "Kpatinman",
+   "nom_normalise": "kpatinman",
+   "pays": "BJ",
+   "langue": "mahi",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "98ff1b9f-b361-58e5-a576-ba6bf1b34c30",
+   "plante_id": "5386af6d-4ee1-5007-a88a-32b1c7704bc4",
+   "nom": "Kpatchi",
+   "nom_normalise": "kpatchi",
+   "pays": "BJ",
+   "langue": "adja",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "c121c429-4946-53ee-a135-46445f950b40",
+   "plante_id": "5386af6d-4ee1-5007-a88a-32b1c7704bc4",
+   "nom": "Lagalaga",
+   "nom_normalise": "lagalaga",
+   "pays": "BJ",
+   "langue": "idaasha",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "9f4ae332-ff1a-5861-a0d6-e035ce0338eb",
+   "plante_id": "5386af6d-4ee1-5007-a88a-32b1c7704bc4",
+   "nom": "Atiwayè",
+   "nom_normalise": "atiwaye",
+   "pays": "TG",
+   "langue": null,
+   "lieu": "Tométy-Kondji",
+   "statut": "valide"
+  },
+  {
+   "id": "7329f472-114f-5b99-a4bc-29633b6aba80",
+   "plante_id": "5386af6d-4ee1-5007-a88a-32b1c7704bc4",
+   "nom": "Yovovigbé",
+   "nom_normalise": "yovovigbe",
+   "pays": "TG",
+   "langue": null,
+   "lieu": "Tométy-Kondji",
+   "statut": "valide"
+  },
+  {
+   "id": "74bd5a83-479a-5b78-ad04-fd006bd51b80",
+   "plante_id": "ecfab101-356d-50ad-a09b-a1e7a2f63632",
+   "nom": "Kini",
+   "nom_normalise": "kini",
+   "pays": "BJ",
+   "langue": "fon",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "8485df2f-4170-5a9b-ae77-85ade90288cd",
+   "plante_id": "ecfab101-356d-50ad-a09b-a1e7a2f63632",
+   "nom": "Kininitin",
+   "nom_normalise": "kininitin",
+   "pays": "BJ",
+   "langue": "mahi",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "cb412fc0-8f06-51e3-a3ca-385709b69465",
+   "plante_id": "ecfab101-356d-50ad-a09b-a1e7a2f63632",
+   "nom": "Jèdiya",
+   "nom_normalise": "jediya",
+   "pays": "BJ",
+   "langue": "idaasha",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "a4c55599-0e7e-5688-a292-abbc7d50b4b3",
+   "plante_id": "ecfab101-356d-50ad-a09b-a1e7a2f63632",
+   "nom": "Kiniti",
+   "nom_normalise": "kiniti",
+   "pays": "TG",
+   "langue": null,
+   "lieu": "Tométy-Kondji",
+   "statut": "valide"
+  },
+  {
+   "id": "a126913d-6ea4-5dbc-ae2f-f36d03cf16e3",
+   "plante_id": "39ef0f73-8be2-5039-a0c8-f621cd85ea90",
+   "nom": "Cha",
+   "nom_normalise": "cha",
+   "pays": "BJ",
+   "langue": "mahi",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "aa206341-6a46-5a1b-aa6e-f0473ed89c47",
+   "plante_id": "39ef0f73-8be2-5039-a0c8-f621cd85ea90",
+   "nom": "Timan",
+   "nom_normalise": "timan",
+   "pays": "BJ",
+   "langue": "mahi",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "0e9f35da-9323-58d5-a6b6-40f11e57ab05",
+   "plante_id": "39ef0f73-8be2-5039-a0c8-f621cd85ea90",
+   "nom": "Ofrin",
+   "nom_normalise": "ofrin",
+   "pays": "BJ",
+   "langue": "idaasha",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "bc553211-c5f2-5c79-aebe-cbc05eb74165",
+   "plante_id": "39ef0f73-8be2-5039-a0c8-f621cd85ea90",
+   "nom": "Tsigbé",
+   "nom_normalise": "tsigbe",
+   "pays": "TG",
+   "langue": null,
+   "lieu": "Tométy-Kondji",
+   "statut": "valide"
+  },
+  {
+   "id": "521c18e0-6590-5e3a-ae3b-8040b3f61c8a",
+   "plante_id": "ec4242be-789e-5c3e-a352-f2b388aff901",
+   "nom": "Tchiayo",
+   "nom_normalise": "tchiayo",
+   "pays": "BJ",
+   "langue": "fon",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "a0b858d1-9e9e-5c8a-ac72-d947ee094391",
+   "plante_id": "ec4242be-789e-5c3e-a352-f2b388aff901",
+   "nom": "Chiayo",
+   "nom_normalise": "chiayo",
+   "pays": "BJ",
+   "langue": "mahi",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "cb2bc22f-33d4-554c-a208-8a88f5461ac1",
+   "plante_id": "ec4242be-789e-5c3e-a352-f2b388aff901",
+   "nom": "Aribra",
+   "nom_normalise": "aribra",
+   "pays": "BJ",
+   "langue": "idaasha",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "272b47a0-dcdc-536d-a56a-efb4fda456c3",
+   "plante_id": "ec4242be-789e-5c3e-a352-f2b388aff901",
+   "nom": "Efinrin",
+   "nom_normalise": "efinrin",
+   "pays": "BJ",
+   "langue": "yoruba",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "458d21d8-58a8-5431-a48e-4a306d95a49a",
+   "plante_id": "ec4242be-789e-5c3e-a352-f2b388aff901",
+   "nom": "Djogbeti",
+   "nom_normalise": "djogbeti",
+   "pays": "TG",
+   "langue": null,
+   "lieu": "Tométy-Kondji",
+   "statut": "valide"
+  },
+  {
+   "id": "ee182a4a-4d87-574a-a096-313316da4685",
+   "plante_id": "ec4242be-789e-5c3e-a352-f2b388aff901",
+   "nom": "Zogbeti",
+   "nom_normalise": "zogbeti",
+   "pays": "TG",
+   "langue": null,
+   "lieu": "Tométy-Kondji",
+   "statut": "valide"
+  },
+  {
+   "id": "f9f5e6cf-8c4e-5e12-ae3f-4bcc985e088d",
+   "plante_id": "ec4242be-789e-5c3e-a352-f2b388aff901",
+   "nom": "Esro",
+   "nom_normalise": "esro",
+   "pays": "TG",
+   "langue": null,
+   "lieu": "Tométy-Kondji",
+   "statut": "valide"
+  },
+  {
+   "id": "4364bc01-0608-5881-a277-4e2827308470",
+   "plante_id": "ec4242be-789e-5c3e-a352-f2b388aff901",
+   "nom": "Gnadonou",
+   "nom_normalise": "gnadonou",
+   "pays": "TG",
+   "langue": null,
+   "lieu": "Tométy-Kondji",
+   "statut": "valide"
+  },
+  {
+   "id": "7ab01d08-08f4-53b1-ac20-d75150eb5c59",
+   "plante_id": "9cb0f552-aa01-5ad4-a610-5494d56e5a05",
+   "nom": "Amanvivè",
+   "nom_normalise": "amanvive",
+   "pays": "BJ",
+   "langue": "fon",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "2b442073-f8d5-58da-ae7d-5a7b6b01929c",
+   "plante_id": "9cb0f552-aa01-5ad4-a610-5494d56e5a05",
+   "nom": "Amanvivè",
+   "nom_normalise": "amanvive",
+   "pays": "BJ",
+   "langue": "mahi",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "72f2021f-d935-5bc8-a8f1-4ffea137c20d",
+   "plante_id": "9cb0f552-aa01-5ad4-a610-5494d56e5a05",
+   "nom": "Alomagbo",
+   "nom_normalise": "alomagbo",
+   "pays": "BJ",
+   "langue": "watchi",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "6b288641-0f2c-56ed-a8df-cdda5cace8db",
+   "plante_id": "9cb0f552-aa01-5ad4-a610-5494d56e5a05",
+   "nom": "Aloma",
+   "nom_normalise": "aloma",
+   "pays": "BJ",
+   "langue": "watchi",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "84431a85-94ab-5d0e-afd5-6e266cddcb5f",
+   "plante_id": "9cb0f552-aa01-5ad4-a610-5494d56e5a05",
+   "nom": "Aroman",
+   "nom_normalise": "aroman",
+   "pays": "BJ",
+   "langue": "idaasha",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "325881a9-c1e3-5f82-a2a6-fcebefdf3ce2",
+   "plante_id": "9cb0f552-aa01-5ad4-a610-5494d56e5a05",
+   "nom": "Aloma",
+   "nom_normalise": "aloma",
+   "pays": "TG",
+   "langue": null,
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "1068c4ad-2e9a-5913-a2cb-48677be04fb9",
+   "plante_id": "9cb0f552-aa01-5ad4-a610-5494d56e5a05",
+   "nom": "Aluma",
+   "nom_normalise": "aluma",
+   "pays": "TG",
+   "langue": null,
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "09459a6d-8952-54c0-ac2d-c0511771b3f9",
+   "plante_id": "9cb0f552-aa01-5ad4-a610-5494d56e5a05",
+   "nom": "Gbondutsi",
+   "nom_normalise": "gbondutsi",
+   "pays": "TG",
+   "langue": null,
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "8c27dd44-e3ea-589c-a2b4-e580b7d9fed7",
+   "plante_id": "9cb0f552-aa01-5ad4-a610-5494d56e5a05",
+   "nom": "Souwaka",
+   "nom_normalise": "souwaka",
+   "pays": "TG",
+   "langue": "tem",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "123340f2-3674-5991-a246-ad7bab2c6f5a",
+   "plante_id": "1f8dfdfc-c4f5-5773-a21b-e87ce34760fc",
+   "nom": "Agalala",
+   "nom_normalise": "agalala",
+   "pays": "BJ",
+   "langue": "fon",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "ab616d72-460e-5258-acdb-fe3f622d0f3e",
+   "plante_id": "2f7cf488-ba7c-5b45-a4b1-890a6413b15d",
+   "nom": "Kpinman",
+   "nom_normalise": "kpinman",
+   "pays": "BJ",
+   "langue": "fon",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "311bf9aa-2ae9-5539-aa32-84f112e000e7",
+   "plante_id": "2f7cf488-ba7c-5b45-a4b1-890a6413b15d",
+   "nom": "Kpinman",
+   "nom_normalise": "kpinman",
+   "pays": "BJ",
+   "langue": "goun",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "da803435-413f-5dd8-afea-04ce212caa66",
+   "plante_id": "2f7cf488-ba7c-5b45-a4b1-890a6413b15d",
+   "nom": "Kpintin",
+   "nom_normalise": "kpintin",
+   "pays": "BJ",
+   "langue": "mahi",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "17e8e61e-69b1-5db0-a0d6-0575f785dc30",
+   "plante_id": "2f7cf488-ba7c-5b45-a4b1-890a6413b15d",
+   "nom": "Aguidi akɔ",
+   "nom_normalise": "aguidi akɔ",
+   "pays": "BJ",
+   "langue": "idaasha",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "0e645a17-1702-5155-a83e-11fcd7c08af7",
+   "plante_id": "2f7cf488-ba7c-5b45-a4b1-890a6413b15d",
+   "nom": "Adouba",
+   "nom_normalise": "adouba",
+   "pays": "TG",
+   "langue": null,
+   "lieu": "Tométy-Kondji",
+   "statut": "valide"
+  },
+  {
+   "id": "3a1b235d-b5f3-5505-a7cd-f5a477a6543e",
+   "plante_id": "2f7cf488-ba7c-5b45-a4b1-890a6413b15d",
+   "nom": "Adiba",
+   "nom_normalise": "adiba",
+   "pays": "TG",
+   "langue": null,
+   "lieu": "nord",
+   "statut": "valide"
+  },
+  {
+   "id": "0b78fbcd-ea1c-5fc6-a9ea-19b652470054",
+   "plante_id": "2f7cf488-ba7c-5b45-a4b1-890a6413b15d",
+   "nom": "Adibgou",
+   "nom_normalise": "adibgou",
+   "pays": "TG",
+   "langue": null,
+   "lieu": "nord",
+   "statut": "valide"
+  },
+  {
+   "id": "0a6e87b7-2e90-5f6a-a31c-cfac173a5470",
+   "plante_id": "84cd4427-b48e-52a2-a2af-a7c6ccfc4969",
+   "nom": "Kpatin",
+   "nom_normalise": "kpatin",
+   "pays": "BJ",
+   "langue": "fon",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "61f0b657-645f-5ab5-a455-598a3d1e9f53",
+   "plante_id": "84cd4427-b48e-52a2-a2af-a7c6ccfc4969",
+   "nom": "Kpatin",
+   "nom_normalise": "kpatin",
+   "pays": "BJ",
+   "langue": "goun",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "5ad324c8-3233-51b1-a965-568038288145",
+   "plante_id": "84cd4427-b48e-52a2-a2af-a7c6ccfc4969",
+   "nom": "Kpatin",
+   "nom_normalise": "kpatin",
+   "pays": "BJ",
+   "langue": "adja",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "ff3409d4-0f8c-5715-a103-61306446e41b",
+   "plante_id": "84cd4427-b48e-52a2-a2af-a7c6ccfc4969",
+   "nom": "Kpatin",
+   "nom_normalise": "kpatin",
+   "pays": "BJ",
+   "langue": "mahi",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "d0f7eaa6-4ca5-531d-ab82-fac568388731",
+   "plante_id": "84cd4427-b48e-52a2-a2af-a7c6ccfc4969",
+   "nom": "Kpatinman",
+   "nom_normalise": "kpatinman",
+   "pays": "BJ",
+   "langue": "fon",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "b7bb6b51-11a0-55d4-a65f-f7b05fffc16b",
+   "plante_id": "84cd4427-b48e-52a2-a2af-a7c6ccfc4969",
+   "nom": "Kpatinman",
+   "nom_normalise": "kpatinman",
+   "pays": "BJ",
+   "langue": "goun",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "bf1ebe5a-a4b9-550f-ac64-06e2d39b8823",
+   "plante_id": "84cd4427-b48e-52a2-a2af-a7c6ccfc4969",
+   "nom": "Kpatinman",
+   "nom_normalise": "kpatinman",
+   "pays": "BJ",
+   "langue": "adja",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "b2001cee-2405-5192-aed8-e61c692f4ac9",
+   "plante_id": "84cd4427-b48e-52a2-a2af-a7c6ccfc4969",
+   "nom": "Kpatinman",
+   "nom_normalise": "kpatinman",
+   "pays": "BJ",
+   "langue": "mahi",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "a45823b1-35d9-5de6-ac9a-58011060684f",
+   "plante_id": "84cd4427-b48e-52a2-a2af-a7c6ccfc4969",
+   "nom": "Désérégué",
+   "nom_normalise": "deseregue",
+   "pays": "BJ",
+   "langue": "fon",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "55165175-6223-5e64-ac0f-744877f2fa83",
+   "plante_id": "84cd4427-b48e-52a2-a2af-a7c6ccfc4969",
+   "nom": "Désérégué",
+   "nom_normalise": "deseregue",
+   "pays": "BJ",
+   "langue": "goun",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "8ffeda7a-924e-5e55-a07f-59fe39872159",
+   "plante_id": "84cd4427-b48e-52a2-a2af-a7c6ccfc4969",
+   "nom": "Désérégué",
+   "nom_normalise": "deseregue",
+   "pays": "BJ",
+   "langue": "adja",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "d542e11b-ab98-5d3b-af8d-8d7e84820a6f",
+   "plante_id": "84cd4427-b48e-52a2-a2af-a7c6ccfc4969",
+   "nom": "Désérégué",
+   "nom_normalise": "deseregue",
+   "pays": "BJ",
+   "langue": "mahi",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "3777603e-c9cf-5ffc-a61b-5899100ef44a",
+   "plante_id": "84cd4427-b48e-52a2-a2af-a7c6ccfc4969",
+   "nom": "Désré",
+   "nom_normalise": "desre",
+   "pays": "BJ",
+   "langue": "fon",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "cb12989a-6f36-5fc3-a4bb-e71f0d08723c",
+   "plante_id": "84cd4427-b48e-52a2-a2af-a7c6ccfc4969",
+   "nom": "Désré",
+   "nom_normalise": "desre",
+   "pays": "BJ",
+   "langue": "goun",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "734c3481-7d11-55b6-a0db-92fc39cec200",
+   "plante_id": "84cd4427-b48e-52a2-a2af-a7c6ccfc4969",
+   "nom": "Désré",
+   "nom_normalise": "desre",
+   "pays": "BJ",
+   "langue": "adja",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "468e4e84-3a96-5e57-a039-a85917472d0e",
+   "plante_id": "84cd4427-b48e-52a2-a2af-a7c6ccfc4969",
+   "nom": "Désré",
+   "nom_normalise": "desre",
+   "pays": "BJ",
+   "langue": "mahi",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "7a31a990-6c5d-5f14-ad90-e88dee775ce8",
+   "plante_id": "84cd4427-b48e-52a2-a2af-a7c6ccfc4969",
+   "nom": "Hounmantin",
+   "nom_normalise": "hounmantin",
+   "pays": "BJ",
+   "langue": "fon",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "0c52a858-ddca-5c15-a4bf-8fd963751281",
+   "plante_id": "84cd4427-b48e-52a2-a2af-a7c6ccfc4969",
+   "nom": "Hounmantin",
+   "nom_normalise": "hounmantin",
+   "pays": "BJ",
+   "langue": "goun",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "87b45b36-cd89-5cd7-a9e6-6d0155c3f2aa",
+   "plante_id": "84cd4427-b48e-52a2-a2af-a7c6ccfc4969",
+   "nom": "Hounmantin",
+   "nom_normalise": "hounmantin",
+   "pays": "BJ",
+   "langue": "adja",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "1abf4b9e-d16d-5c8b-a0c1-4aa8aeb5c449",
+   "plante_id": "84cd4427-b48e-52a2-a2af-a7c6ccfc4969",
+   "nom": "Hounmantin",
+   "nom_normalise": "hounmantin",
+   "pays": "BJ",
+   "langue": "mahi",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "e1922238-75dd-5c07-a03c-3782c85fa7b3",
+   "plante_id": "84cd4427-b48e-52a2-a2af-a7c6ccfc4969",
+   "nom": "Abébéman",
+   "nom_normalise": "abebeman",
+   "pays": "BJ",
+   "langue": "fon",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "a8473d43-a9d9-5e3a-a61e-e641fb8fefc1",
+   "plante_id": "84cd4427-b48e-52a2-a2af-a7c6ccfc4969",
+   "nom": "Abébéman",
+   "nom_normalise": "abebeman",
+   "pays": "BJ",
+   "langue": "goun",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "d0164a53-28d3-59cb-a690-33e6241a8d3d",
+   "plante_id": "84cd4427-b48e-52a2-a2af-a7c6ccfc4969",
+   "nom": "Abébéman",
+   "nom_normalise": "abebeman",
+   "pays": "BJ",
+   "langue": "adja",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "c4342375-77d0-5a64-ab05-640a343b70fd",
+   "plante_id": "84cd4427-b48e-52a2-a2af-a7c6ccfc4969",
+   "nom": "Abébéman",
+   "nom_normalise": "abebeman",
+   "pays": "BJ",
+   "langue": "mahi",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "ea3acacc-1dec-5dea-a3dc-d17d6cea6254",
+   "plante_id": "84cd4427-b48e-52a2-a2af-a7c6ccfc4969",
+   "nom": "Afla",
+   "nom_normalise": "afla",
+   "pays": "BJ",
+   "langue": "fon",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "f0972ec5-820a-5464-abbe-58be75aa054a",
+   "plante_id": "84cd4427-b48e-52a2-a2af-a7c6ccfc4969",
+   "nom": "Afla",
+   "nom_normalise": "afla",
+   "pays": "BJ",
+   "langue": "goun",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "f03afed0-7aba-5956-a411-08bec9454ac0",
+   "plante_id": "84cd4427-b48e-52a2-a2af-a7c6ccfc4969",
+   "nom": "Afla",
+   "nom_normalise": "afla",
+   "pays": "BJ",
+   "langue": "adja",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "fe981d52-0598-526d-a43d-08e3677cf162",
+   "plante_id": "84cd4427-b48e-52a2-a2af-a7c6ccfc4969",
+   "nom": "Afla",
+   "nom_normalise": "afla",
+   "pays": "BJ",
+   "langue": "mahi",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "6f34c75e-e4ed-5ea4-a399-024fc799bc84",
+   "plante_id": "84cd4427-b48e-52a2-a2af-a7c6ccfc4969",
+   "nom": "Akoko",
+   "nom_normalise": "akoko",
+   "pays": "BJ",
+   "langue": "nago",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "312c5f14-7d26-5fc2-a57b-7586513472ca",
+   "plante_id": "84cd4427-b48e-52a2-a2af-a7c6ccfc4969",
+   "nom": "Avlé",
+   "nom_normalise": "avle",
+   "pays": "BJ",
+   "langue": "yoruba",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "f74cd85e-c865-5abd-a266-87a62a89b025",
+   "plante_id": "84cd4427-b48e-52a2-a2af-a7c6ccfc4969",
+   "nom": "Gléman",
+   "nom_normalise": "gleman",
+   "pays": "BJ",
+   "langue": "mahi",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "ec5ac263-ca0c-5a6a-a82d-8b3e61af8d11",
+   "plante_id": "84cd4427-b48e-52a2-a2af-a7c6ccfc4969",
+   "nom": "Kpatima",
+   "nom_normalise": "kpatima",
+   "pays": "TG",
+   "langue": "éwé",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "8c6b6e96-4106-5073-a326-b618f2874358",
+   "plante_id": "84cd4427-b48e-52a2-a2af-a7c6ccfc4969",
+   "nom": "Aflama",
+   "nom_normalise": "aflama",
+   "pays": "TG",
+   "langue": null,
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "d448b1bd-2fbc-5828-ae7c-10866ab773f4",
+   "plante_id": "84cd4427-b48e-52a2-a2af-a7c6ccfc4969",
+   "nom": "Desre",
+   "nom_normalise": "desre",
+   "pays": "TG",
+   "langue": null,
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "f0d41444-a401-5309-a75e-1f4dd77212ca",
+   "plante_id": "84cd4427-b48e-52a2-a2af-a7c6ccfc4969",
+   "nom": "Kpatimé",
+   "nom_normalise": "kpatime",
+   "pays": "TG",
+   "langue": null,
+   "lieu": "nord",
+   "statut": "valide"
+  },
+  {
+   "id": "23b2410a-a09d-5214-aa90-f7b46f68b290",
+   "plante_id": "6b7f1a1a-7df2-51df-a35a-f5d4388b5de9",
+   "nom": "Mangatin",
+   "nom_normalise": "mangatin",
+   "pays": "BJ",
+   "langue": "mahi",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "eca68902-b832-5940-acb0-e0f4c9deb6b3",
+   "plante_id": "6b7f1a1a-7df2-51df-a35a-f5d4388b5de9",
+   "nom": "Mango",
+   "nom_normalise": "mango",
+   "pays": "BJ",
+   "langue": "idaasha",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "2b8ed621-494b-574a-ab55-954bf572ef8e",
+   "plante_id": "6b7f1a1a-7df2-51df-a35a-f5d4388b5de9",
+   "nom": "Mangoti",
+   "nom_normalise": "mangoti",
+   "pays": "TG",
+   "langue": null,
+   "lieu": "Tométy-Kondji",
+   "statut": "valide"
+  },
+  {
+   "id": "477b0b33-eeaf-50c3-a9cb-739320a4289d",
+   "plante_id": "6b7f1a1a-7df2-51df-a35a-f5d4388b5de9",
+   "nom": "Moungou",
+   "nom_normalise": "moungou",
+   "pays": "TG",
+   "langue": null,
+   "lieu": "nord",
+   "statut": "valide"
+  },
+  {
+   "id": "8ddfadfa-1e21-5995-a03d-98476d96f2d4",
+   "plante_id": "c39e4676-2580-5c77-ab69-186c710dbb1e",
+   "nom": "Bissap",
+   "nom_normalise": "bissap",
+   "pays": "BJ",
+   "langue": "nom courant",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "65e5e0d3-190a-574b-a9b8-b10d196bcd7a",
+   "plante_id": "c39e4676-2580-5c77-ab69-186c710dbb1e",
+   "nom": "Bissap",
+   "nom_normalise": "bissap",
+   "pays": "TG",
+   "langue": "nom courant",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "bae32187-2214-5b6e-a2fe-08930971caba",
+   "plante_id": "d70cb5b4-1bd9-5b08-ad0b-3e008c87d361",
+   "nom": "Gouagbéman",
+   "nom_normalise": "gouagbeman",
+   "pays": "BJ",
+   "langue": "péda",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "f1fb1000-2511-5775-ad0e-7675c331545a",
+   "plante_id": "d70cb5b4-1bd9-5b08-ad0b-3e008c87d361",
+   "nom": "Kinkountin",
+   "nom_normalise": "kinkountin",
+   "pays": "BJ",
+   "langue": "mahi",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "26148585-3cc7-5a20-acd2-05d3702fcd4c",
+   "plante_id": "d70cb5b4-1bd9-5b08-ad0b-3e008c87d361",
+   "nom": "Kèkoun",
+   "nom_normalise": "kekoun",
+   "pays": "BJ",
+   "langue": "idaasha",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "04dfc879-c551-5060-a4ac-1c77edd71292",
+   "plante_id": "d70cb5b4-1bd9-5b08-ad0b-3e008c87d361",
+   "nom": "Goyave",
+   "nom_normalise": "goyave",
+   "pays": "TG",
+   "langue": null,
+   "lieu": "Tométy-Kondji",
+   "statut": "valide"
+  },
+  {
+   "id": "449d5dd0-018c-5160-a630-263c852568e0",
+   "plante_id": "fc43bd80-85d5-5eea-a55e-0774cc6975af",
+   "nom": "Hlinwé",
+   "nom_normalise": "hlinwe",
+   "pays": "BJ",
+   "langue": "mahi",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "54efc4b4-077c-5231-a9dd-f803103e1baa",
+   "plante_id": "fc43bd80-85d5-5eea-a55e-0774cc6975af",
+   "nom": "Aribissohou",
+   "nom_normalise": "aribissohou",
+   "pays": "BJ",
+   "langue": "idaasha",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "31cb7635-f648-5cb4-a399-49d45e34f67f",
+   "plante_id": "fc43bd80-85d5-5eea-a55e-0774cc6975af",
+   "nom": "Ahlévi",
+   "nom_normalise": "ahlevi",
+   "pays": "TG",
+   "langue": null,
+   "lieu": "Tométy-Kondji",
+   "statut": "valide"
+  },
+  {
+   "id": "602a64ea-906e-5679-a2e6-05c2fe49cd60",
+   "plante_id": "fc43bd80-85d5-5eea-a55e-0774cc6975af",
+   "nom": "Ehle",
+   "nom_normalise": "ehle",
+   "pays": "TG",
+   "langue": null,
+   "lieu": "Tométy-Kondji",
+   "statut": "valide"
+  },
+  {
+   "id": "361168b4-a41a-5ad5-a32c-7926568ece89",
+   "plante_id": "fc43bd80-85d5-5eea-a55e-0774cc6975af",
+   "nom": "Ehlevi",
+   "nom_normalise": "ehlevi",
+   "pays": "TG",
+   "langue": null,
+   "lieu": "Tométy-Kondji",
+   "statut": "valide"
+  },
+  {
+   "id": "683da613-03d8-5ebc-accf-044b80457fd3",
+   "plante_id": "24d3a311-e19f-5cdf-acc2-d8bb77c44141",
+   "nom": "Bonjour bonsoir",
+   "nom_normalise": "bonjour bonsoir",
+   "pays": "BJ",
+   "langue": "idaasha",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "d5f81f43-8d38-544c-a24b-27bfba96f495",
+   "plante_id": "006ce068-04f6-5479-ad8c-92df5a6af9cd",
+   "nom": "Gnisinkin",
+   "nom_normalise": "gnisinkin",
+   "pays": "BJ",
+   "langue": "mahi",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "cc43faee-e1c0-5cc9-a235-796e93adda4b",
+   "plante_id": "006ce068-04f6-5479-ad8c-92df5a6af9cd",
+   "nom": "Yinsikin",
+   "nom_normalise": "yinsikin",
+   "pays": "BJ",
+   "langue": "mahi",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "8d422c99-d14b-51fe-a963-6d9a2ad46450",
+   "plante_id": "006ce068-04f6-5479-ad8c-92df5a6af9cd",
+   "nom": "Voï",
+   "nom_normalise": "voi",
+   "pays": "BJ",
+   "langue": "adja",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "2a35e7f9-c2dc-5454-ac75-2152f8f13132",
+   "plante_id": "006ce068-04f6-5479-ad8c-92df5a6af9cd",
+   "nom": "Kpalari",
+   "nom_normalise": "kpalari",
+   "pays": "BJ",
+   "langue": "idaasha",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "768a7b25-ef2a-5dbe-af0c-2119a81d7f6f",
+   "plante_id": "006ce068-04f6-5479-ad8c-92df5a6af9cd",
+   "nom": "Agnagnran",
+   "nom_normalise": "agnagnran",
+   "pays": "TG",
+   "langue": null,
+   "lieu": "Tométy-Kondji",
+   "statut": "valide"
+  },
+  {
+   "id": "c3ddf47f-d3c3-5979-a353-70a012e01920",
+   "plante_id": "006ce068-04f6-5479-ad8c-92df5a6af9cd",
+   "nom": "Adjoukan",
+   "nom_normalise": "adjoukan",
+   "pays": "TG",
+   "langue": null,
+   "lieu": "Tométy-Kondji",
+   "statut": "valide"
+  },
+  {
+   "id": "0f7708cc-b7d6-50a2-ab42-b1f78332e83d",
+   "plante_id": "1c3e368b-dd74-5a61-a326-1d409233554e",
+   "nom": "Igbessin Ko",
+   "nom_normalise": "igbessin ko",
+   "pays": "BJ",
+   "langue": "idaasha",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "f44c5e82-ca80-52b3-a03a-9576f804717b",
+   "plante_id": "1c3e368b-dd74-5a61-a326-1d409233554e",
+   "nom": "Gnémon",
+   "nom_normalise": "gnemon",
+   "pays": "TG",
+   "langue": null,
+   "lieu": "Tométy-Kondji",
+   "statut": "valide"
+  },
+  {
+   "id": "a4d49964-415d-51fd-afd4-683e104bccc4",
+   "plante_id": "1c3e368b-dd74-5a61-a326-1d409233554e",
+   "nom": "Koutoutchalgnisr",
+   "nom_normalise": "koutoutchalgnisr",
+   "pays": "TG",
+   "langue": null,
+   "lieu": "nord",
+   "statut": "valide"
+  },
+  {
+   "id": "968832ca-6d7e-5c28-ad36-814eff0f3ac7",
+   "plante_id": "7fd8f8f4-455e-540f-a35b-9b8bb752fb27",
+   "nom": "Hontonzuzoué",
+   "nom_normalise": "hontonzuzoue",
+   "pays": "BJ",
+   "langue": "fon",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "542682c5-05fe-598a-af2d-b1b3bec7ac3d",
+   "plante_id": "7fd8f8f4-455e-540f-a35b-9b8bb752fb27",
+   "nom": "Hontonzuzoué",
+   "nom_normalise": "hontonzuzoue",
+   "pays": "BJ",
+   "langue": "cotafon",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "4f3a85c4-a27a-5e38-aaa2-cc7f0e14c7ee",
+   "plante_id": "7fd8f8f4-455e-540f-a35b-9b8bb752fb27",
+   "nom": "Onton zunzin",
+   "nom_normalise": "onton zunzin",
+   "pays": "BJ",
+   "langue": "mahi",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "aad54826-0549-516f-a019-084674467d75",
+   "plante_id": "7fd8f8f4-455e-540f-a35b-9b8bb752fb27",
+   "nom": "Agni-wèwè",
+   "nom_normalise": "agni-wewe",
+   "pays": "BJ",
+   "langue": "idaasha",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "48add21f-d692-5369-a1a9-6d06dc70aeeb",
+   "plante_id": "0613dfb8-1d42-5c92-a6ec-3c0daf20d367",
+   "nom": "Kpéjélékoun",
+   "nom_normalise": "kpejelekoun",
+   "pays": "BJ",
+   "langue": "mahi",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "fbcc8660-03ab-5e37-ab5a-6bc645a22ab9",
+   "plante_id": "0613dfb8-1d42-5c92-a6ec-3c0daf20d367",
+   "nom": "Oroun",
+   "nom_normalise": "oroun",
+   "pays": "BJ",
+   "langue": "idaasha",
+   "lieu": null,
+   "statut": "valide"
+  },
+  {
+   "id": "fd60b5ec-73d1-5118-a37d-6a45a0d74bed",
+   "plante_id": "0613dfb8-1d42-5c92-a6ec-3c0daf20d367",
+   "nom": "Etcho",
+   "nom_normalise": "etcho",
+   "pays": "TG",
+   "langue": null,
+   "lieu": "Tométy-Kondji",
+   "statut": "valide"
+  },
+  {
+   "id": "b19c843a-9e0a-5e19-a739-6b14ef2ab14f",
+   "plante_id": "0613dfb8-1d42-5c92-a6ec-3c0daf20d367",
+   "nom": "Esso",
+   "nom_normalise": "esso",
+   "pays": "TG",
+   "langue": null,
+   "lieu": "Tométy-Kondji",
+   "statut": "valide"
+  },
+  {
+   "id": "9293103d-5982-564a-aef4-f5c53a738fdc",
+   "plante_id": "11813114-3404-5d8a-aa8a-e49a78bdbedd",
+   "nom": "Kinkéliba",
+   "nom_normalise": "kinkeliba",
+   "pays": "TG",
+   "langue": null,
+   "lieu": "Tométy-Kondji",
+   "statut": "valide"
+  },
+  {
+   "id": "a662f8e1-5e14-53cc-a242-b05f340a6be0",
+   "plante_id": "11813114-3404-5d8a-aa8a-e49a78bdbedd",
+   "nom": "Lalui",
+   "nom_normalise": "lalui",
+   "pays": "TG",
+   "langue": null,
+   "lieu": "Tométy-Kondji",
+   "statut": "valide"
+  }
+ ],
+ "usages": [
+  {
+   "plante_id": "facb2e81-d9b6-5c5a-ae6a-4561bb7e4289",
+   "pays": "BJ",
+   "partie": null,
+   "preparation": null,
+   "statut": "valide",
+   "id": "f41d3e9f-f8fc-51c0-af32-01358ee22904",
+   "indications": [],
+   "precision": null,
+   "contexte": null,
+   "texte": "Tisane de tous les jours"
+  },
+  {
+   "plante_id": "5386af6d-4ee1-5007-a88a-32b1c7704bc4",
+   "pays": "BJ",
+   "partie": null,
+   "preparation": null,
+   "statut": "valide",
+   "id": "ea49fba2-fa8f-55ed-a594-96e5a212f86d",
+   "indications": [
+    "Diarrhée",
+    "Fièvre",
+    "Maux de tête",
+    "Convulsions"
+   ],
+   "precision": null,
+   "contexte": "Cotonou, Calavi",
+   "texte": null
+  },
+  {
+   "plante_id": "5386af6d-4ee1-5007-a88a-32b1c7704bc4",
+   "pays": "BJ",
+   "partie": null,
+   "preparation": null,
+   "statut": "valide",
+   "id": "6b9232a4-6722-5f44-a3f6-711a4dd6c4dc",
+   "indications": [
+    "Diabète"
+   ],
+   "precision": null,
+   "contexte": "centre",
+   "texte": null
+  },
+  {
+   "plante_id": "5386af6d-4ee1-5007-a88a-32b1c7704bc4",
+   "pays": "TG",
+   "partie": null,
+   "preparation": null,
+   "statut": "valide",
+   "id": "dbf22e6b-ce1d-5dc0-a7aa-bf001c171725",
+   "indications": [],
+   "precision": null,
+   "contexte": null,
+   "texte": "Cité dans les recettes de Tométy-Kondji"
+  },
+  {
+   "plante_id": "ecfab101-356d-50ad-a09b-a1e7a2f63632",
+   "pays": "BJ",
+   "partie": null,
+   "preparation": null,
+   "statut": "valide",
+   "id": "45ff64f5-c59c-59cb-a504-d9e7a17453fd",
+   "indications": [
+    "Diabète"
+   ],
+   "precision": "écorce et feuilles en décoction",
+   "contexte": "centre",
+   "texte": null
+  },
+  {
+   "plante_id": "ecfab101-356d-50ad-a09b-a1e7a2f63632",
+   "pays": "TG",
+   "partie": null,
+   "preparation": null,
+   "statut": "valide",
+   "id": "d48d5f82-57b0-55cc-a360-1a334d799e83",
+   "indications": [],
+   "precision": null,
+   "contexte": null,
+   "texte": "Cité à Tométy-Kondji"
+  },
+  {
+   "plante_id": "39ef0f73-8be2-5039-a0c8-f621cd85ea90",
+   "pays": "BJ",
+   "partie": null,
+   "preparation": null,
+   "statut": "valide",
+   "id": "8cb0fb02-0d56-5164-a514-167fc8e241e2",
+   "indications": [
+    "Diabète"
+   ],
+   "precision": "feuilles en décoction",
+   "contexte": "centre",
+   "texte": null
+  },
+  {
+   "plante_id": "39ef0f73-8be2-5039-a0c8-f621cd85ea90",
+   "pays": "TG",
+   "partie": null,
+   "preparation": null,
+   "statut": "valide",
+   "id": "3ae419da-fb53-5f0d-a2c2-3ec5e1c6679c",
+   "indications": [],
+   "precision": null,
+   "contexte": null,
+   "texte": "Cité à Tométy-Kondji"
+  },
+  {
+   "plante_id": "ec4242be-789e-5c3e-a352-f2b388aff901",
+   "pays": "BJ",
+   "partie": null,
+   "preparation": null,
+   "statut": "valide",
+   "id": "2d7f7dfe-e3db-5da5-ae65-8295c0e40ac0",
+   "indications": [
+    "Maux de ventre",
+    "Diarrhée",
+    "Dysenterie",
+    "Hypertension",
+    "Candidose"
+   ],
+   "precision": null,
+   "contexte": null,
+   "texte": null
+  },
+  {
+   "plante_id": "ec4242be-789e-5c3e-a352-f2b388aff901",
+   "pays": "BJ",
+   "partie": null,
+   "preparation": null,
+   "statut": "valide",
+   "id": "a522fa26-074e-5d60-a75a-688d037d8c8c",
+   "indications": [
+    "Diabète"
+   ],
+   "precision": null,
+   "contexte": null,
+   "texte": null
+  },
+  {
+   "plante_id": "ec4242be-789e-5c3e-a352-f2b388aff901",
+   "pays": "TG",
+   "partie": null,
+   "preparation": null,
+   "statut": "valide",
+   "id": "1f169248-bac2-53f0-a80c-36374542932a",
+   "indications": [],
+   "precision": null,
+   "contexte": null,
+   "texte": "Plante alimentaire et médicinale la plus citée de la région Maritime"
+  },
+  {
+   "plante_id": "ec4242be-789e-5c3e-a352-f2b388aff901",
+   "pays": "TG",
+   "partie": null,
+   "preparation": null,
+   "statut": "valide",
+   "id": "1dd12833-eb60-5178-aec4-c92862614d17",
+   "indications": [],
+   "precision": null,
+   "contexte": null,
+   "texte": "21 citations à Tométy-Kondji"
+  },
+  {
+   "plante_id": "9cb0f552-aa01-5ad4-a610-5494d56e5a05",
+   "pays": "BJ",
+   "partie": null,
+   "preparation": null,
+   "statut": "valide",
+   "id": "d4355137-ed8c-5839-ab12-9da657575108",
+   "indications": [
+    "Diarrhée",
+    "Constipation",
+    "Vers"
+   ],
+   "precision": null,
+   "contexte": null,
+   "texte": null
+  },
+  {
+   "plante_id": "9cb0f552-aa01-5ad4-a610-5494d56e5a05",
+   "pays": "BJ",
+   "partie": null,
+   "preparation": null,
+   "statut": "valide",
+   "id": "4d1f2346-c45b-5b83-abc4-f09628498bf6",
+   "indications": [
+    "Diabète"
+   ],
+   "precision": null,
+   "contexte": null,
+   "texte": null
+  },
+  {
+   "plante_id": "9cb0f552-aa01-5ad4-a610-5494d56e5a05",
+   "pays": "TG",
+   "partie": null,
+   "preparation": null,
+   "statut": "valide",
+   "id": "0367989a-ca10-5dd9-a439-626dabb3f669",
+   "indications": [],
+   "precision": null,
+   "contexte": null,
+   "texte": "2e plante alimentaire et médicinale la plus citée de la région Maritime"
+  },
+  {
+   "plante_id": "1f8dfdfc-c4f5-5773-a21b-e87ce34760fc",
+   "pays": "BJ",
+   "partie": null,
+   "preparation": null,
+   "statut": "valide",
+   "id": "78347c9d-1ab6-518d-a3d4-01c67ab116dc",
+   "indications": [
+    "Diarrhée",
+    "Dysenterie"
+   ],
+   "precision": null,
+   "contexte": null,
+   "texte": null
+  },
+  {
+   "plante_id": "1f8dfdfc-c4f5-5773-a21b-e87ce34760fc",
+   "pays": "BJ",
+   "partie": null,
+   "preparation": null,
+   "statut": "valide",
+   "id": "a0b84ff1-0f70-58b4-aa9a-fc5fff0d97bc",
+   "indications": [
+    "Maladies de la bouche"
+   ],
+   "precision": null,
+   "contexte": null,
+   "texte": null
+  },
+  {
+   "plante_id": "6052d98d-516f-5d36-aff2-fa954dc8a8f9",
+   "pays": "BJ",
+   "partie": null,
+   "preparation": null,
+   "statut": "valide",
+   "id": "03e31643-4058-5bfe-a38e-29b9d317787a",
+   "indications": [],
+   "precision": null,
+   "contexte": null,
+   "texte": "Cultivée au Bénin, tisane testée contre le paludisme (l'OMS la déconseille)"
+  },
+  {
+   "plante_id": "2f7cf488-ba7c-5b45-a4b1-890a6413b15d",
+   "pays": "BJ",
+   "partie": null,
+   "preparation": null,
+   "statut": "valide",
+   "id": "decb2328-c1cb-5a24-a37e-eadaf8aeb749",
+   "indications": [
+    "Diabète"
+   ],
+   "precision": null,
+   "contexte": null,
+   "texte": null
+  },
+  {
+   "plante_id": "2f7cf488-ba7c-5b45-a4b1-890a6413b15d",
+   "pays": "BJ",
+   "partie": null,
+   "preparation": null,
+   "statut": "valide",
+   "id": "25f08f97-ab73-5440-ab7f-2c52d9504164",
+   "indications": [
+    "Santé de la femme"
+   ],
+   "precision": "anémie, montée de lait, fertilité",
+   "contexte": null,
+   "texte": null
+  },
+  {
+   "plante_id": "2f7cf488-ba7c-5b45-a4b1-890a6413b15d",
+   "pays": "TG",
+   "partie": null,
+   "preparation": null,
+   "statut": "valide",
+   "id": "334dfabe-1d2f-5356-a411-85dbbe6c8a5d",
+   "indications": [
+    "Paludisme"
+   ],
+   "precision": "fruit en macération",
+   "contexte": "nord",
+   "texte": null
+  },
+  {
+   "plante_id": "84cd4427-b48e-52a2-a2af-a7c6ccfc4969",
+   "pays": "BJ",
+   "partie": null,
+   "preparation": null,
+   "statut": "valide",
+   "id": "da470124-7be7-5ec7-a846-f321b14ddc03",
+   "indications": [
+    "Paludisme",
+    "Fièvre",
+    "Hypertension",
+    "Purification"
+   ],
+   "precision": null,
+   "contexte": null,
+   "texte": null
+  },
+  {
+   "plante_id": "84cd4427-b48e-52a2-a2af-a7c6ccfc4969",
+   "pays": "BJ",
+   "partie": null,
+   "preparation": null,
+   "statut": "valide",
+   "id": "0463a0c4-bac7-50ff-aca1-baf39db28901",
+   "indications": [],
+   "precision": null,
+   "contexte": null,
+   "texte": "haie sacrée qui délimite la maison familiale"
+  },
+  {
+   "plante_id": "84cd4427-b48e-52a2-a2af-a7c6ccfc4969",
+   "pays": "TG",
+   "partie": null,
+   "preparation": null,
+   "statut": "valide",
+   "id": "0e8aa54b-3242-56a8-afe0-be23f910bd9a",
+   "indications": [
+    "Paludisme"
+   ],
+   "precision": "plante la plus citée au nord et dans la région des Plateaux",
+   "contexte": null,
+   "texte": null
+  },
+  {
+   "plante_id": "6b7f1a1a-7df2-51df-a35a-f5d4388b5de9",
+   "pays": "BJ",
+   "partie": null,
+   "preparation": null,
+   "statut": "valide",
+   "id": "f2843f71-a74d-51d7-a0cd-241d0bd19b5f",
+   "indications": [
+    "Diabète"
+   ],
+   "precision": null,
+   "contexte": null,
+   "texte": null
+  },
+  {
+   "plante_id": "6b7f1a1a-7df2-51df-a35a-f5d4388b5de9",
+   "pays": "TG",
+   "partie": null,
+   "preparation": null,
+   "statut": "valide",
+   "id": "cf1aa6f0-e26a-5a36-ad30-32bbf410f9fe",
+   "indications": [
+    "Paludisme"
+   ],
+   "precision": "écorce en décoction",
+   "contexte": "nord",
+   "texte": null
+  },
+  {
+   "plante_id": "6b7f1a1a-7df2-51df-a35a-f5d4388b5de9",
+   "pays": "TG",
+   "partie": null,
+   "preparation": null,
+   "statut": "valide",
+   "id": "fce4e53b-9578-528e-ac91-f97eadea128a",
+   "indications": [],
+   "precision": null,
+   "contexte": null,
+   "texte": "écorce dans les mélanges anti-infectieux de Lomé"
+  },
+  {
+   "plante_id": "c39e4676-2580-5c77-ab69-186c710dbb1e",
+   "pays": "BJ",
+   "partie": null,
+   "preparation": null,
+   "statut": "valide",
+   "id": "713c3b86-4be9-5367-a50c-f8a0df2090ef",
+   "indications": [],
+   "precision": null,
+   "contexte": null,
+   "texte": "Feuilles, calices et graines en alimentation et en pharmacopée (centre et nord)"
+  },
+  {
+   "plante_id": "c39e4676-2580-5c77-ab69-186c710dbb1e",
+   "pays": "TG",
+   "partie": null,
+   "preparation": null,
+   "statut": "valide",
+   "id": "28946823-8f23-51c3-a47f-9a411d22be6e",
+   "indications": [
+    "Boisson courante"
+   ],
+   "precision": null,
+   "contexte": null,
+   "texte": null
+  },
+  {
+   "plante_id": "d70cb5b4-1bd9-5b08-ad0b-3e008c87d361",
+   "pays": "BJ",
+   "partie": null,
+   "preparation": null,
+   "statut": "valide",
+   "id": "61f68a61-8da4-54f6-ace7-978603eee018",
+   "indications": [
+    "Diarrhée",
+    "Ictère",
+    "Dysenterie"
+   ],
+   "precision": null,
+   "contexte": null,
+   "texte": null
+  },
+  {
+   "plante_id": "d70cb5b4-1bd9-5b08-ad0b-3e008c87d361",
+   "pays": "BJ",
+   "partie": null,
+   "preparation": null,
+   "statut": "valide",
+   "id": "0baac580-c8a8-509a-a4a4-ca389b3c81a7",
+   "indications": [
+    "Diabète"
+   ],
+   "precision": null,
+   "contexte": null,
+   "texte": null
+  },
+  {
+   "plante_id": "d70cb5b4-1bd9-5b08-ad0b-3e008c87d361",
+   "pays": "TG",
+   "partie": null,
+   "preparation": null,
+   "statut": "valide",
+   "id": "45a5a311-7046-558d-aed8-0ab767d18c2d",
+   "indications": [],
+   "precision": null,
+   "contexte": null,
+   "texte": "Cité à Tométy-Kondji"
+  },
+  {
+   "plante_id": "fc43bd80-85d5-5eea-a55e-0774cc6975af",
+   "pays": "BJ",
+   "partie": null,
+   "preparation": null,
+   "statut": "valide",
+   "id": "f42f3398-6b8d-554c-a752-275dc4196856",
+   "indications": [
+    "Diabète"
+   ],
+   "precision": "plante entière, l'une des plus citées",
+   "contexte": "centre",
+   "texte": null
+  },
+  {
+   "plante_id": "fc43bd80-85d5-5eea-a55e-0774cc6975af",
+   "pays": "TG",
+   "partie": null,
+   "preparation": null,
+   "statut": "valide",
+   "id": "3be6696c-4153-57be-adbb-3e289d6a64ef",
+   "indications": [],
+   "precision": null,
+   "contexte": null,
+   "texte": "Cité à Tométy-Kondji"
+  },
+  {
+   "plante_id": "24d3a311-e19f-5cdf-acc2-d8bb77c44141",
+   "pays": "BJ",
+   "partie": null,
+   "preparation": null,
+   "statut": "valide",
+   "id": "008af6e3-c979-5f60-a798-bd060efccfe0",
+   "indications": [
+    "Diabète"
+   ],
+   "precision": null,
+   "contexte": "centre",
+   "texte": null
+  },
+  {
+   "plante_id": "24d3a311-e19f-5cdf-acc2-d8bb77c44141",
+   "pays": "TG",
+   "partie": null,
+   "preparation": null,
+   "statut": "valide",
+   "id": "206dad97-05b1-5d13-a990-f95c3591acb1",
+   "indications": [
+    "Diabète"
+   ],
+   "precision": null,
+   "contexte": "région Maritime",
+   "texte": null
+  },
+  {
+   "plante_id": "006ce068-04f6-5479-ad8c-92df5a6af9cd",
+   "pays": "BJ",
+   "partie": null,
+   "preparation": null,
+   "statut": "valide",
+   "id": "e0b8b3f2-ad2a-5906-aa68-42544c06c983",
+   "indications": [
+    "Diarrhée",
+    "Maux de ventre"
+   ],
+   "precision": null,
+   "contexte": null,
+   "texte": null
+  },
+  {
+   "plante_id": "006ce068-04f6-5479-ad8c-92df5a6af9cd",
+   "pays": "BJ",
+   "partie": null,
+   "preparation": null,
+   "statut": "valide",
+   "id": "70d8587f-1524-5b5d-af38-c3ad10758cf9",
+   "indications": [
+    "Diabète"
+   ],
+   "precision": null,
+   "contexte": null,
+   "texte": null
+  },
+  {
+   "plante_id": "006ce068-04f6-5479-ad8c-92df5a6af9cd",
+   "pays": "TG",
+   "partie": null,
+   "preparation": null,
+   "statut": "valide",
+   "id": "769f4e03-2877-5ef3-a201-627524ca8c65",
+   "indications": [],
+   "precision": null,
+   "contexte": null,
+   "texte": "19 citations à Tométy-Kondji"
+  },
+  {
+   "plante_id": "1c3e368b-dd74-5a61-a326-1d409233554e",
+   "pays": "BJ",
+   "partie": null,
+   "preparation": null,
+   "statut": "valide",
+   "id": "885a764c-3fa3-54fd-ad3a-c927b5293ba9",
+   "indications": [
+    "Diabète"
+   ],
+   "precision": null,
+   "contexte": "racine",
+   "texte": null
+  },
+  {
+   "plante_id": "1c3e368b-dd74-5a61-a326-1d409233554e",
+   "pays": "BJ",
+   "partie": null,
+   "preparation": null,
+   "statut": "valide",
+   "id": "291283a2-284e-5b29-a00d-56c3481de8d7",
+   "indications": [],
+   "precision": null,
+   "contexte": null,
+   "texte": "tisanes de Cotonou contre le paludisme"
+  },
+  {
+   "plante_id": "1c3e368b-dd74-5a61-a326-1d409233554e",
+   "pays": "TG",
+   "partie": null,
+   "preparation": null,
+   "statut": "valide",
+   "id": "5a07d6d6-a4a7-527e-a14c-b6f8342fd0b5",
+   "indications": [
+    "Paludisme"
+   ],
+   "precision": "racine et feuilles",
+   "contexte": "nord, Plateaux",
+   "texte": null
+  },
+  {
+   "plante_id": "7fd8f8f4-455e-540f-a35b-9b8bb752fb27",
+   "pays": "BJ",
+   "partie": null,
+   "preparation": null,
+   "statut": "valide",
+   "id": "2c586010-af5e-5bc6-a0d1-e3b8b640a326",
+   "indications": [
+    "Diarrhée",
+    "Abcès",
+    "Paludisme",
+    "Constipation",
+    "Hypertension"
+   ],
+   "precision": null,
+   "contexte": null,
+   "texte": null
+  },
+  {
+   "plante_id": "7fd8f8f4-455e-540f-a35b-9b8bb752fb27",
+   "pays": "BJ",
+   "partie": null,
+   "preparation": null,
+   "statut": "valide",
+   "id": "f9e17843-8f64-5430-a089-8dedc1a9977e",
+   "indications": [],
+   "precision": null,
+   "contexte": null,
+   "texte": "« Thé-HTA »"
+  },
+  {
+   "plante_id": "0613dfb8-1d42-5c92-a6ec-3c0daf20d367",
+   "pays": "BJ",
+   "partie": null,
+   "preparation": null,
+   "statut": "valide",
+   "id": "e03f2bbe-c9a6-5443-ad94-e8e22c9b81a7",
+   "indications": [
+    "Diabète"
+   ],
+   "precision": null,
+   "contexte": "fruit",
+   "texte": null
+  },
+  {
+   "plante_id": "0613dfb8-1d42-5c92-a6ec-3c0daf20d367",
+   "pays": "BJ",
+   "partie": null,
+   "preparation": null,
+   "statut": "valide",
+   "id": "03f8071d-3691-58c9-ac38-9f20e892634c",
+   "indications": [],
+   "precision": null,
+   "contexte": null,
+   "texte": "vendu sur les marchés"
+  },
+  {
+   "plante_id": "0613dfb8-1d42-5c92-a6ec-3c0daf20d367",
+   "pays": "TG",
+   "partie": null,
+   "preparation": null,
+   "statut": "valide",
+   "id": "9ee947a3-63e0-5a7c-adbc-9f8daca0ee6e",
+   "indications": [
+    "Diabète"
+   ],
+   "precision": null,
+   "contexte": "région Maritime",
+   "texte": null
+  },
+  {
+   "plante_id": "11813114-3404-5d8a-aa8a-e49a78bdbedd",
+   "pays": "TG",
+   "partie": null,
+   "preparation": null,
+   "statut": "valide",
+   "id": "02cd2b67-b529-50e4-ab2e-5b917ac2ba28",
+   "indications": [],
+   "precision": null,
+   "contexte": null,
+   "texte": "Cité à Tométy-Kondji"
+  }
+ ],
+ "remedes": [
+  {
+   "id": "b4d0d57e-4ddf-5d5c-a5e0-88add633e494",
+   "slug": "tisane-fievre-et-paludisme-cotonou",
+   "nom": "Tisane fièvre et paludisme (Cotonou)",
+   "origine_pays": [
+    "BJ"
+   ],
+   "origine_lieux": [],
+   "histoire": "Vendue en bord de route dans les grandes villes depuis plusieurs décennies ; consommée aussi par les zémidjans et travailleurs « pour l'énergie ». Histoire détaillée à recueillir auprès des vendeuses.",
+   "indication": "Paludisme, fièvre (déclaré par les vendeurs)",
+   "prudence": "a_evaluer",
+   "visibilite": "public",
+   "effets_connus": null,
+   "deconseille_a": null,
+   "source_id": "c45f7ca5-bee1-5d7d-a194-523225b10612",
+   "contributeur_id": null,
+   "statut": "valide"
+  },
+  {
+   "id": "a32fdb7e-650e-58b9-adb9-1d35345d4ba3",
+   "slug": "tisane-paludisme-et-infections-cotonou",
+   "nom": "Tisane paludisme et infections (Cotonou)",
+   "origine_pays": [
+    "BJ"
+   ],
+   "origine_lieux": [],
+   "histoire": "Même circuit de vente en bord de route à Cotonou. Histoire à recueillir.",
+   "indication": "Paludisme, infections (déclaré par les vendeurs)",
+   "prudence": "a_evaluer",
+   "visibilite": "public",
+   "effets_connus": null,
+   "deconseille_a": null,
+   "source_id": "c45f7ca5-bee1-5d7d-a194-523225b10612",
+   "contributeur_id": null,
+   "statut": "valide"
+  },
+  {
+   "id": "bd456b47-167b-587f-aa05-ffd72c5cc865",
+   "slug": "the-hta",
+   "nom": "Thé-HTA",
+   "origine_pays": [
+    "BJ"
+   ],
+   "origine_lieux": [],
+   "histoire": "Savoir local du Sud et du Centre (Pahou, Massi, Banamè, Lougba, Calavi, Akassato, Savè), mis en sachets par des chercheurs de l'UAC en 2018.",
+   "indication": "Hypertension",
+   "prudence": "moderee",
+   "visibilite": "public",
+   "effets_connus": null,
+   "deconseille_a": null,
+   "source_id": "1632463d-55b6-5aa7-a48f-d60257ff6ea5",
+   "contributeur_id": null,
+   "statut": "valide"
+  },
+  {
+   "id": "d918d5df-aeb1-511d-af44-11b7120e2482",
+   "slug": "recette-r1",
+   "nom": "Recette R1",
+   "origine_pays": [
+    "TG"
+   ],
+   "origine_lieux": [],
+   "histoire": "Recueillie en 2021 auprès de 40 tradipraticiens de la préfecture de Zio. Histoire à recueillir.",
+   "indication": "Candidoses vaginales",
+   "prudence": "a_evaluer",
+   "visibilite": "public",
+   "effets_connus": null,
+   "deconseille_a": null,
+   "source_id": "524d0cd8-1f36-59db-ae7a-fb72d43dd1dc",
+   "contributeur_id": null,
+   "statut": "valide"
+  },
+  {
+   "id": "a529c383-f1f8-5b7e-ad0a-4052f6f9b24f",
+   "slug": "melange-d-ecorces-anti-infectieux",
+   "nom": "Mélange d'écorces anti-infectieux",
+   "origine_pays": [
+    "TG"
+   ],
+   "origine_lieux": [],
+   "histoire": "Vendu par les herboristes des marchés de Lomé ; de 2 à 14 plantes selon la quantité achetée. Composition type, pas une recette exacte.",
+   "indication": "Maladies infectieuses",
+   "prudence": "a_evaluer",
+   "visibilite": "public",
+   "effets_connus": null,
+   "deconseille_a": null,
+   "source_id": "458ee0fa-7a26-5497-a454-450eb187a0c6",
+   "contributeur_id": null,
+   "statut": "valide"
+  }
+ ],
+ "composants": [
+  {
+   "id": "64c0f8fc-7110-5ffa-a593-3e0890702482",
+   "remede_id": "b4d0d57e-4ddf-5d5c-a5e0-88add633e494",
+   "plante_id": null,
+   "plante_proposee": "Psorospermum senegalense",
+   "partie": null,
+   "usage_benin": "Paludisme, fièvre (tisanes de Cotonou)",
+   "usage_togo": null,
+   "ordre": 0
+  },
+  {
+   "id": "28ae4187-6fcc-54b4-a9e0-09f06f4677a3",
+   "remede_id": "b4d0d57e-4ddf-5d5c-a5e0-88add633e494",
+   "plante_id": null,
+   "plante_proposee": "Morinda lucida",
+   "partie": null,
+   "usage_benin": "Paludisme, fièvre (tisanes de Cotonou)",
+   "usage_togo": null,
+   "ordre": 1
+  },
+  {
+   "id": "5558051a-b259-5733-ac78-3a4dec8028f9",
+   "remede_id": "b4d0d57e-4ddf-5d5c-a5e0-88add633e494",
+   "plante_id": "1c3e368b-dd74-5a61-a326-1d409233554e",
+   "plante_proposee": null,
+   "partie": null,
+   "usage_benin": "Paludisme, fièvre (tisanes de Cotonou)",
+   "usage_togo": "Paludisme : racine et feuilles (nord du Togo)",
+   "ordre": 2
+  },
+  {
+   "id": "b1533640-d0b1-5239-a1fd-4b6dba88b5ce",
+   "remede_id": "a32fdb7e-650e-58b9-adb9-1d35345d4ba3",
+   "plante_id": null,
+   "plante_proposee": "Dialium guineense",
+   "partie": null,
+   "usage_benin": "Paludisme, infections (tisanes de Cotonou)",
+   "usage_togo": null,
+   "ordre": 0
+  },
+  {
+   "id": "4009196a-0b9c-5169-a09f-a7976e2469db",
+   "remede_id": "a32fdb7e-650e-58b9-adb9-1d35345d4ba3",
+   "plante_id": null,
+   "plante_proposee": "Morinda lucida",
+   "partie": null,
+   "usage_benin": "Paludisme, fièvre (tisanes de Cotonou)",
+   "usage_togo": null,
+   "ordre": 1
+  },
+  {
+   "id": "54eb8414-c0fc-5961-a525-7e53bc9ebcea",
+   "remede_id": "a32fdb7e-650e-58b9-adb9-1d35345d4ba3",
+   "plante_id": null,
+   "plante_proposee": "Flacourtia flavescens",
+   "partie": null,
+   "usage_benin": "Paludisme, infections (tisanes de Cotonou)",
+   "usage_togo": null,
+   "ordre": 2
+  },
+  {
+   "id": "12878b68-cd83-52e8-a290-aa26d609c5fa",
+   "remede_id": "bd456b47-167b-587f-aa05-ffd72c5cc865",
+   "plante_id": "7fd8f8f4-455e-540f-a35b-9b8bb752fb27",
+   "plante_proposee": null,
+   "partie": "Feuille",
+   "usage_benin": "Diarrhée, abcès, paludisme, constipation, hypertension",
+   "usage_togo": null,
+   "ordre": 0
+  },
+  {
+   "id": "b8c38a9a-0680-5167-aa49-89c04de3d9b5",
+   "remede_id": "bd456b47-167b-587f-aa05-ffd72c5cc865",
+   "plante_id": null,
+   "plante_proposee": "Carissa edulis",
+   "partie": "Racine",
+   "usage_benin": "Hypertension (Sud et Centre)",
+   "usage_togo": null,
+   "ordre": 1
+  },
+  {
+   "id": "b2adb577-8985-57d7-abd0-8637570edccd",
+   "remede_id": "d918d5df-aeb1-511d-af44-11b7120e2482",
+   "plante_id": null,
+   "plante_proposee": "Alchornea cordifolia",
+   "partie": "Racine et feuilles",
+   "usage_benin": null,
+   "usage_togo": "Candidoses vaginales (préfecture de Zio)",
+   "ordre": 0
+  },
+  {
+   "id": "15213f25-d322-5a40-ace1-ae1a9a01b96c",
+   "remede_id": "d918d5df-aeb1-511d-af44-11b7120e2482",
+   "plante_id": null,
+   "plante_proposee": "Gardenia latifolia",
+   "partie": "Feuilles",
+   "usage_benin": null,
+   "usage_togo": "Candidoses vaginales (préfecture de Zio)",
+   "ordre": 1
+  },
+  {
+   "id": "6065bf37-517d-5f2d-a96b-c2b9192372e5",
+   "remede_id": "a529c383-f1f8-5b7e-ad0a-4052f6f9b24f",
+   "plante_id": null,
+   "plante_proposee": "Lannea kerstingii",
+   "partie": "Écorce de tige",
+   "usage_benin": null,
+   "usage_togo": "Antianémique, « renforcer l'organisme » (herboristes de Lomé)",
+   "ordre": 0
+  },
+  {
+   "id": "a1708bb5-7b81-5670-a22b-623c025511d2",
+   "remede_id": "a529c383-f1f8-5b7e-ad0a-4052f6f9b24f",
+   "plante_id": null,
+   "plante_proposee": "Bridelia ferruginea",
+   "partie": "Écorce de tige",
+   "usage_benin": null,
+   "usage_togo": "Infections (marchés de Lomé)",
+   "ordre": 1
+  },
+  {
+   "id": "26cdd400-952a-59d0-acb2-8ef47ffb0575",
+   "remede_id": "a529c383-f1f8-5b7e-ad0a-4052f6f9b24f",
+   "plante_id": null,
+   "plante_proposee": "Zanthoxylum xanthoxyloides",
+   "partie": "Racine",
+   "usage_benin": null,
+   "usage_togo": "Infections (marchés de Lomé)",
+   "ordre": 2
+  },
+  {
+   "id": "d4339d51-5e4d-5657-a6aa-238e096eb990",
+   "remede_id": "a529c383-f1f8-5b7e-ad0a-4052f6f9b24f",
+   "plante_id": "6b7f1a1a-7df2-51df-a35a-f5d4388b5de9",
+   "plante_proposee": null,
+   "partie": "Écorce de tige",
+   "usage_benin": null,
+   "usage_togo": "Paludisme : écorce (nord du Togo) ; infections (marchés de Lomé)",
+   "ordre": 3
+  }
+ ]
+}
